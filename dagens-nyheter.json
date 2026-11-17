@@ -1,7 +1,21 @@
 {
- "generatedAt": "2026-11-17T08:09:07+01:00",
+ "generatedAt": "2026-11-17T09:08:41+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "dab2c16d3af6",
+   "published": "2026-11-17",
+   "title": "Lena Olin går in i Bio Skandias hedersstyrelse",
+   "summary": "Skådespelaren Lena Olin ansluter till hedersstyrelsen för Bio Skandia, som Stockholms filmfestival driver, tillsammans med Ethan Hawke, Stellan Skarsgård, Josef Fares och Tarik Saleh. Biografen fyller 103 år i höst.",
+   "url": "https://www.mynewsdesk.com/se/stockholms_filmfestival/pressreleases/lena-olin-invald-i-bio-skandias-hedersstyrelse-3478579",
+   "source": "Stockholms filmfestival",
+   "country": "SE",
+   "topics": [
+    "Personal & tillsättningar"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-17T07:50:07Z"
+  },
   {
    "id": "2ec319af697e",
    "published": "2026-11-16",
@@ -411,20 +425,6 @@
    "country": "DK",
    "topics": [
     "Politik & policy"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-15T07:05:00+01:00"
-  },
-  {
-   "id": "f574e5ea5ff3",
-   "published": "2026-11-13",
-   "title": "Strategen Peder Haugfos vill göra unga till deltagare på biografen",
-   "summary": "På Kinokonferansen i Bergen uppmanade Peder Haugfos biograferna att bygga på ungas fankultur. Han hänvisade till att 97 procent av 15 till 19-åringarna enligt Film & Kinos ungdomsundersökning gått på bio det senaste året.",
-   "url": "https://kino.no/kinoen-ma-bli-mer-enn-et-sted-a-se-film-unge-vil-vaere-deltakere-ikke-bare-publikum/",
-   "source": "Film & Kino",
-   "country": "NO",
-   "topics": [
-    "Distribution"
    ],
    "format": "Bransch",
    "addedAt": "2026-11-15T07:05:00+01:00"
