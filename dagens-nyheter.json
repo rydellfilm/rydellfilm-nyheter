@@ -1,7 +1,35 @@
 {
- "generatedAt": "2026-11-17T09:08:41+01:00",
+ "generatedAt": "2026-11-17T15:08:28+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "1e402b54ad09",
+   "published": "2026-11-17",
+   "title": "Nordiska filmer och serier nominerade till tre europeiska priser",
+   "summary": "Fjord får fem nomineringar till European Film Awards och Woman Unknown tre. Hundarna tävlar i Rose d'Or och C21 International Drama Awards, där fyra av sex nominerade icke engelskspråkiga dramaserier är nordiska. Galan hålls 16 januari i Aten.",
+   "url": "https://nordiskfilmogtvfond.com/news/stories/several-nordic-film-and-series-featured-as-efa-rose-dor-and-c21-nominations-are-announced",
+   "source": "Nordisk Film & TV Fond",
+   "country": "NORDEN",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-17T14:50:03+01:00"
+  },
+  {
+   "id": "b792b0dd73e4",
+   "published": "2026-11-17",
+   "title": "Göteborg Film Festival avtäcker jubileumsaffischen på Hagabion 4 december",
+   "summary": "Konstnären Sara-Vide Ericson och konstnärliga ledaren Pia Lundberg visar affischen till festivalens femtionde upplaga på Kino i Hagabion fredag 4 december klockan 16. Platserna är begränsade och fördelas efter ankomst.",
+   "url": "https://goteborgfilmfestival.se/nyheter/festivalaffisch-avtacks-kino-hagabion",
+   "source": "Göteborg Film Festival",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-17T14:50:03+01:00"
+  },
   {
    "id": "dab2c16d3af6",
    "published": "2026-11-17",
@@ -397,34 +425,6 @@
    "country": "NO",
    "topics": [
     "Distribution"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-15T07:05:00+01:00"
-  },
-  {
-   "id": "54c96dc56fb1",
-   "published": "2026-11-13",
-   "title": "Marius Solberg vill att biograferna satsar på premiärperioden och gemenskap",
-   "summary": "Mothership Stories medgrundare Marius Solberg sa på Kinokonferansen i Bergen att biograferna ska nå dem som bestämmer gruppens filmval och bygga filmklubbar. Han kritiserade att stödordningar gynnar traditionella medier framför digitala filmförmedlare.",
-   "url": "https://kino.no/kino-ma-skape-fomo-ikke-bare-selge-billetter/",
-   "source": "Film & Kino",
-   "country": "NO",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-15T07:05:00+01:00"
-  },
-  {
-   "id": "6573381d6443",
-   "published": "2026-11-13",
-   "title": "Unga förknippar AI i film med fusk och manipulation",
-   "summary": "En rapport beställd av Det Danske Filminstitut bygger på samtal med 61 deltagare mellan 8 och 24 år. De accepterar AI för bakgrunder, ljus och ljud men inte för manus eller AI-skådespelare, och flera skulle känna sig lurade av dold AI.",
-   "url": "https://rushprint.no/2026/11/ki-pa-film-forbindes-med-juks-og-manipulasjon-av-unge/",
-   "source": "Rushprint",
-   "country": "DK",
-   "topics": [
-    "Politik & policy"
    ],
    "format": "Bransch",
    "addedAt": "2026-11-15T07:05:00+01:00"
