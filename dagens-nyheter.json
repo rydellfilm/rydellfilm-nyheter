@@ -1,446 +1,433 @@
 {
- "generatedAt": "2026-10-26T11:13:16+01:00",
+ "generatedAt": "2026-11-17T08:09:07+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
   {
-   "id": "1b35386345e5",
-   "published": "2026-10-26",
-   "title": "Julia Thelins debutfilm Mecenaten finns nu på SVT Play",
-   "summary": "Thrillern Mecenaten, Julia Thelins första långfilm från 2026, går nu att strömma på SVT Play. Carla Sehn spelar en städerska som tar över en konsthandlares identitet, med Maxwell Cunningham och Lucas Lynggaard Tønnesen i rollerna som två konststudenter.",
-   "url": "https://www.moviezine.se/nyheter/mecenaten-forsta-gangen-pa-svt-play",
+   "id": "2ec319af697e",
+   "published": "2026-11-16",
+   "title": "In defense of self får Nordic Docs pris för bästa långa dokumentär",
+   "summary": "Linn Helene Løkens In defense of self vann bästa långa dokumentär på fjortonde upplagan av Nordic Docs. Robin Jensens Time of Plenty från Mikrofilm vann klassen under 60 minuter och Andrea Helen Bergli Støvreides Når voksne leker fick publikens pris.",
+   "url": "https://rushprint.no/2026/11/nordic-docs-med-prisdryss-til-norske-dokumentarer/",
+   "source": "Rushprint",
+   "country": "NO",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Dokumentär",
+   "addedAt": "2026-11-17T07:30:00+01:00"
+  },
+  {
+   "id": "39ee63fc7997",
+   "published": "2026-11-16",
+   "title": "Michael Lindgrens komedi Flaggan säljer bäst på SF Anytime",
+   "summary": "Flaggan, som gick upp på bio i augusti 2026, är nu den mest köpta filmen på SF Anytime. Noel Flike och Arvid Swedrup spelar huvudrollerna med Henrik Dorsin och Markoolio i biroller.",
+   "url": "https://www.moviezine.se/nyheter/digitalpremiar-flaggan-sf-anytime",
    "source": "MovieZine",
    "country": "SE",
    "topics": [
     "Distribution"
    ],
    "format": "Film",
-   "addedAt": "2026-10-26T10:55:00+01:00"
+   "addedAt": "2026-11-17T07:30:00+01:00"
   },
   {
-   "id": "24ee30dd38e8",
-   "published": "2026-10-24",
-   "title": "Sørnorsk filmsenter påminner om EU:s slatestöd med deadline 1 december",
-   "summary": "Sørnorsk filmsenter uppmanar norska produktionsbolag att söka Kreativt Europas slatestöd för utveckling av tre till fem audiovisuella projekt. Ansökan ska vara inne senast 1 december 2026 klockan 17.00 via Media Desk Norge.",
-   "url": "https://www.sornorskfilm.no/aktuelt/mediadesk26",
-   "source": "Sørnorsk filmsenter",
-   "country": "NO",
+   "id": "3d20eb51b7f7",
+   "published": "2026-11-16",
+   "title": "David F. Sandberg gör skräckfilmen Mommy's Home med Dave Franco",
+   "summary": "Den svenske regissören David F. Sandbergs nästa film handlar om en mor som tinas upp efter flera år och vill flytta in hos sin son. James Morosini skriver manus och Willa Fitzgerald spelar mot Dave Franco.",
+   "url": "https://www.moviezine.se/nyheter/hans-doda-mamma-tinas-upp-och-flyttar-in-i-nya-skrackfilmen-fran-svenske-regissoren",
+   "source": "MovieZine",
+   "country": "SE",
    "topics": [
-    "Finansiering",
-    "Utveckling"
+    "Produktion"
    ],
-   "format": "Bransch",
-   "addedAt": "2026-10-26T10:55:00+01:00"
+   "format": "Film",
+   "addedAt": "2026-11-17T07:30:00+01:00"
   },
   {
-   "id": "57b3d706ae1a",
-   "published": "2026-10-24",
-   "title": "Sørnorsk Filmsenter bjuder in till Julepitchen i Kristiansand",
-   "summary": "Sørnorsk Filmsenter håller Julepitchen 2026 den 18 december på Aladdin Kino i Kristiansand. Vinnaren i varje format får 25 000 NOK i utvecklingsstöd. Idéer från Agder, Vestfold och Telemark anmäls senast 15 november.",
-   "url": "https://www.sornorskfilm.no/aktuelt/signatur27-s3d2p",
-   "source": "Sørnorsk Filmsenter",
+   "id": "51d299ccd3be",
+   "published": "2026-11-16",
+   "title": "Filminvest ger manusstöd till fem projekt i årets andra omgång",
+   "summary": "Filminvest rekommenderar manusutvecklingsstöd till långfilmerna Hysj, The Lost Paradise och Orkan, serien Ferskinger av Trond Morten K Veenasen och spelet Stiklestad. Långfilmerna skrivs av Talon Darren Winsnes, Emil Kobberød och Anna Lian. Beloppen redovisas inte.",
+   "url": "https://filminvest.no/2026/11/nye-manustilskudd/",
+   "source": "Filminvest",
    "country": "NO",
    "topics": [
     "Utveckling",
     "Finansiering"
    ],
-   "format": "Bransch",
-   "addedAt": "2026-10-25T00:30:00+02:00"
-  },
-  {
-   "id": "5932a326d4bb",
-   "published": "2026-10-23",
-   "title": "Dansk filmstudent varnar för att AI försämrar filmskapandet",
-   "summary": "Regissören Magnus Hippe Brun, som studerar regi vid Den Danske Filmskole, skriver i Ekko att AI urholkar samarbetet och upphovsrätten i filmbranschen. Han kritiserar produktionsbolaget Bacon, vars musikvideo A Perfect Storm har en AI-skapad rollbesättning, och varnar för att instegsjobb försvinner.",
-   "url": "https://www.ekkofilm.dk/artikler/ai-gor-os-til-darligere-filmskabere/",
-   "source": "Filmmagasinet Ekko",
-   "country": "DK",
-   "topics": [
-    "Politik & policy",
-    "Avtal & arbetsvillkor"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-10-25T00:30:00+02:00"
-  },
-  {
-   "id": "c670b9753114",
-   "published": "2026-10-23",
-   "title": "Satirikern Adnan Al-Adhami leder Ekko Shortlist Awards i Köpenhamn",
-   "summary": "Filmmagasinet Ekko delar ut 2026 års kortfilmspriser den 19 november på Bremen Teater i Köpenhamn med Adnan Al-Adhami från DR P3 som värd. Priserna fördelas i 17 kategorier, och publikens röster och juryn väger lika tungt.",
-   "url": "https://www.ekkofilm.dk/artikler/adnan-al-adhami-vaert-for-ekko-shortlist-awards/",
-   "source": "Filmmagasinet Ekko",
-   "country": "DK",
-   "topics": [
-    "Festivaler & priser"
-   ],
    "format": "Film",
-   "addedAt": "2026-10-25T00:30:00+02:00"
+   "addedAt": "2026-11-17T07:30:00+01:00"
   },
   {
-   "id": "3983ea4bb2d3",
-   "published": "2026-10-23",
-   "title": "Animatören Christian Ryltenius får hederspris på Prisma",
-   "summary": "Göteborg Film Festival ger animationsregissören Christian Ryltenius årets hederspris på Prisma 2026. Han tar emot priset den 24 oktober klockan 10 på Bio Roy, före en visning av Bamse och havets hemlighet.",
-   "url": "https://goteborgfilmfestival.se/en/news/hederspristagare-prisma2026-en",
-   "source": "Göteborg Film Festival",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-10-24T20:17:34+00:00"
-  },
-  {
-   "id": "16377e98ab4e",
-   "published": "2026-10-23",
-   "title": "Jens Jonssons Out of Fashion spelas in i Stockholm och Bryssel",
-   "summary": "Jens Jonsson regisserar svensk-belgiska Out of Fashion med Sunil Munshi och Anupam Kher, och inspelningen pågår till december i Stockholm, Sala, Bryssel och Paris. Way Feature Films och [sic] film producerar med Film Stockholm, Film i Skåne och SVT som samproducenter.",
-   "url": "https://cineuropa.org/en/newsdetail/496647/",
-   "source": "Cineuropa",
-   "country": "SE",
-   "topics": [
-    "Produktion",
-    "Samproduktion"
-   ],
-   "format": "Film",
-   "addedAt": "2026-10-24T15:10:27+00:00"
-  },
-  {
-   "id": "708cf2607cb4",
-   "published": "2026-10-23",
-   "title": "Minst åtta svenska projekt med vertikala mikrodramer pågår",
-   "summary": "Film-Nyheterna känner till minst åtta pågående svenska projekt med vertikala mikrodramaserier, en form som växer snabbt även internationellt. Samtidigt organiseras en motrörelse med stöd från en tv-kanal.",
-   "url": "https://www.film-nyheterna.se/",
-   "source": "Film-Nyheterna",
-   "country": "SE",
-   "topics": [
-    "Produktion"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-10-24T15:10:27+00:00"
-  },
-  {
-   "id": "a2fcdd744e27",
-   "published": "2026-10-23",
-   "title": "Norsk filminstitutt utlyser Kjetil Ombergs tjänst som avdelningsdirektör",
-   "summary": "Kjetil Omberg lämnar Norsk filminstitutt i slutet av februari 2027. Institutet utlyser hans tjänst som avdelningsdirektör för publik och positionering, med ansvar för lansering, distribution och internationella marknader. Sista ansökningsdag är 15 november 2026.",
-   "url": "https://www.nfi.no/nyheter/ledig-stilling-som-avdelingsdirektoer-for-publikum-og-posisjonering",
-   "source": "Norsk filminstitutt",
-   "country": "NO",
-   "topics": [
-    "Personal & tillsättningar"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-10-24T15:10:27+00:00"
-  },
-  {
-   "id": "c6a52cf05b52",
-   "published": "2026-10-23",
-   "title": "Creative Europe Desk informerar om EU-stöd till projektportföljer",
-   "summary": "Creative Europe Desk MEDIA vid Svenska Filminstitutet håller ett informationsmöte i Stockholm den 28 oktober om EU:s stöd till utveckling av projektportföljer. Produktionsbolag som utvecklar flera projekt för den internationella marknaden kan få mellan 90 000 och 510 000 euro.",
-   "url": "https://www.film-nyheterna.se/artiklar",
-   "source": "Film-Nyheterna",
-   "country": "SE",
-   "topics": [
-    "Finansiering",
-    "Utveckling"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-10-24T15:10:27+00:00"
-  },
-  {
-   "id": "7317e9daba7e",
-   "published": "2026-10-22",
-   "title": "Film Stockholm visar upp sju kortfilmsprojekt i Uppsala",
-   "summary": "Film Stockholm har samproducerat eller utvecklat sju verk i tävlingen och bland pågående projekt på Uppsala kortfilmfestival 19 till 25 oktober 2026. Organisationen arrangerar också Uppsala Talangdagar tillsammans med festivalen.",
-   "url": "https://filmstockholm.se/?post_type=post&p=27753",
-   "source": "Film Stockholm",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser",
-    "Samproduktion",
-    "Utveckling"
-   ],
-   "format": "Film",
-   "addedAt": "2026-10-24T20:17:34+00:00"
-  },
-  {
-   "id": "7a6681496d1e",
-   "published": "2026-10-22",
-   "title": "Samproduktionen Ben'Imana vann debutpris på festivalen i Bergen",
-   "summary": "Ben'Imana av Marie-Clémentine Dusabejambo, samproducerad av västnorska DUOfilm, vann festivalens nya debutpris Révélations, och Johannes Holstad Tønders Min tjommi, Frank blev bästa västnorska kortfilm. Öppningsfilmen Markens grøde av Hans Petter Moland, inspelad i Luster, får biopremiär 30 oktober.",
-   "url": "https://vestnorskfilm.no/nyheter/et-tilbakeblikk-p-biff-2026",
-   "source": "Vestnorsk filmsenter",
+   "id": "964d740c0b27",
+   "published": "2026-11-16",
+   "title": "Céline Sciamma gästar Tromsø Internasjonale Filmfestival med retrospektiv och masterclass",
+   "summary": "Tromsø Internasjonale Filmfestival visar sju filmer av Céline Sciamma, bland dem Porträtt av en kvinna i brand, och hon håller en masterclass under festivalen 18 till 24 januari 2027. Hennes debut Water Lilies vann festivalens huvudpris Aurora 2008.",
+   "url": "https://www.tiff.no/en/news/celine-sciamma-gjester-tiff-2027",
+   "source": "Tromsø Internasjonale Filmfestival",
    "country": "NO",
    "topics": [
     "Festivaler & priser"
    ],
    "format": "Film",
-   "addedAt": "2026-10-24T15:11:34+00:00"
+   "addedAt": "2026-11-17T07:30:00+01:00"
   },
   {
-   "id": "3a0d32275a30",
-   "published": "2026-10-22",
-   "title": "Nio nordiska barnfilmsprojekt sökte partner och finansiering på Cinekid",
-   "summary": "Nio nordiska projekt deltog i Cinekid for Professionals, bland dem Mikal Hovlands norska familjefilm ”Astronaut” med en budget på 2,2 miljoner euro. Esben Toft Jacobsens svensk-dansk-nederländska ”Millie och krokodilens hemlighet” är till 85 procent animerad, med biopremiär planerad till hösten 2027.",
-   "url": "https://nordiskfilmogtvfond.com/news/stories/from-fear-to-financing-nordic-childrens-projects-chart-different-paths-at-cinekid",
-   "source": "Nordic Film & TV News",
-   "country": "NORDEN",
-   "topics": [
-    "Samproduktion",
-    "Finansiering",
-    "Utveckling"
-   ],
-   "format": "Film",
-   "addedAt": "2026-10-24T15:10:27+00:00"
-  },
-  {
-   "id": "4508d907bb0f",
-   "published": "2026-10-22",
-   "title": "ZDF och ACT4 ger klartecken för isländska kriminalserien Vigilant",
-   "summary": "ACT4 och ZDF gör den engelskspråkiga kriminalserien ”Vigilant” i sex avsnitt efter Skúli Sigurðssons roman ”Stóri bróðir”, med Kari Skogland som regissör för samtliga avsnitt. Inspelningen startar på Island den 29 oktober, Síminn medfinansierar och ZDF Studios säljer serien internationellt utanför USA.",
-   "url": "https://cineuropa.org/en/newsdetail/496621/",
-   "source": "Cineuropa",
-   "country": "IS",
-   "topics": [
-    "Produktion",
-    "Samproduktion",
-    "Finansiering"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-10-24T15:10:27+00:00"
-  },
-  {
-   "id": "626079d2995e",
-   "published": "2026-10-22",
-   "title": "Svenska Filminstitutet inför ny kontoplan och nya budgetmallar",
-   "summary": "Svenska Filminstitutet har moderniserat sin kontoplan tillsammans med branschen, med tidigare saknade yrkesroller, nya konton för miljöstandarden Nordic Ecological Standard och nya budgetmallar. En digital informationsträff hålls den 4 december.",
-   "url": "https://www.mynewsdesk.com/se/svenska-filminstitutet/news/informationstraeff-om-filminstitutets-uppdaterade-kontoplan-514135",
-   "source": "Svenska Filminstitutet",
-   "country": "SE",
-   "topics": [
-    "Produktion"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-10-24T15:10:27+00:00"
-  },
-  {
-   "id": "96e814637e9b",
-   "published": "2026-10-22",
-   "title": "Hovrätten ger Trier och Vogt rätt i intäktstvist med Oslo Pictures",
-   "summary": "Borgarting lagmannsrett avvisade Oslo Pictures krav på att få tillbaka 380 848 euro av Joachim Triers och Eskil Vogts intäkter från ”Verdens verste menneske”. Bolaget måste också låta 1 187 690 norska kronor i efterbearbetningsstöd och 94 000 euro från Eurimages fördelas enligt avtalet.",
-   "url": "https://rushprint.no/2026/10/trier-og-vogt-vant-i-lagmannsretten/",
-   "source": "Rushprint",
-   "country": "NO",
-   "topics": [
-    "Avtal & arbetsvillkor"
-   ],
-   "format": "Film",
-   "addedAt": "2026-10-24T15:10:27+00:00"
-  },
-  {
-   "id": "c64a80ffeb4f",
-   "published": "2026-10-22",
-   "title": "Nipster går upp på svenska biografer med Folkets Bio",
-   "summary": "Sunniva Eir Tangvik Kveums långfilmsdebut Nipster, om radikalisering på ett läger för klimatengagerade unga, får biopremiär i hela landet 23 oktober genom Folkets Bio. Carbs Film i Malmö producerar och Film i Skåne samproducerar, med stöd från Svenska Filminstitutets Talent to Watch.",
-   "url": "https://filmiskane.se/sv/?post_type=post&p=10063",
-   "source": "Film i Skåne",
-   "country": "SE",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-10-24T15:10:27+00:00"
-  },
-  {
-   "id": "98cf59df4561",
-   "published": "2026-10-21",
-   "title": "Finska producenterna bakom Bufo och B-Plan gästar Nordic Film Talks",
-   "summary": "Nordisk Film & TV Fond släpper ett poddavsnitt med Misha Jaari och Mark Lwoff, som grundade Helsingforsbolaget Bufo 2007 och distributören B-Plan 2013. De berättar bland annat om vampyrfilmen Red Snow, som når strömningstjänsten Shudder i december 2026.",
-   "url": "https://nordiskfilmogtvfond.com/news/stories/nordic-film-talks-misha-jaari-and-mark-lwoff-of-bufo-and-b-plan",
-   "source": "Nordisk Film & TV Fond",
+   "id": "b0b6daa02685",
+   "published": "2026-11-16",
+   "title": "Lapin sota passerar 285 000 biobesökare i Finland",
+   "summary": "Aku Louhimiehens krigsfilm Lapin sota toppade biolistan för fjärde helgen i rad med 25 371 besökare och har nu 285 766 totalt, enligt Finlands filmstiftelse. Kerro kaikille har nått 74 066 besökare.",
+   "url": "https://www.ses.fi/ajankohtaista/top-20-viiden-karjessa-oli-kolme-ensi-iltaa/",
+   "source": "Finlands filmstiftelse",
    "country": "FI",
    "topics": [
-    "Produktion",
     "Distribution"
    ],
-   "format": "Bransch",
-   "addedAt": "2026-10-24T20:17:34+00:00"
-  },
-  {
-   "id": "b2d27c28febf",
-   "published": "2026-10-21",
-   "title": "Filmkraft Rogaland fördelar 3,475 miljoner norska kronor till 17 projekt",
-   "summary": "Styrelsen för Filmkraft Rogaland beviljade 20 oktober 3,475 miljoner norska kronor till 17 av 24 sökta projekt. Mest fick spelfilmen The happiest Day från Incitus Films, 600 000 kronor i produktionsstöd, medan dokumentärerna Spire och En større stemme fick 400 000 kronor vardera.",
-   "url": "https://filmkraft.no/uncategorized/tildelinger-etter-styremote-20-oktober-2026/",
-   "source": "Filmkraft Rogaland",
-   "country": "NO",
-   "topics": [
-    "Finansiering",
-    "Produktion",
-    "Utveckling"
-   ],
    "format": "Film",
-   "addedAt": "2026-10-24T15:11:34+00:00"
+   "addedAt": "2026-11-17T07:30:00+01:00"
   },
   {
-   "id": "5a2a90c8a0b7",
-   "published": "2026-10-21",
-   "title": "BBC köper TV4:s nya Wallander med Gustaf Skarsgård",
-   "summary": "Banijay Rights har sålt TV4:s nya ”Wallander”, tre filmer på 90 minuter med Gustaf Skarsgård i titelrollen, till BBC, MHz Choice i Nordamerika samt NPO, VRT, HRT och LNK. Jarowskij/YellowBird gör serien för TV4 med ARD Degeto, Film i Skåne och Ystad Österlen Filmfond.",
-   "url": "https://www.c21media.net/news/swedish-reboot-of-wallander-lands-at-bbc-amidst-european-and-na-sales/",
-   "source": "C21Media",
+   "id": "b61aafa2c35d",
+   "published": "2026-11-16",
+   "title": "Wallander med Gustaf Skarsgård visades på Stockholms filmfestival",
+   "summary": "Wallander – Steget efter fick sin första stora visning på Stockholms filmfestival och har premiär på TV4 Play+ våren 2027. Två uppföljande filmer väntas under 2027 och Skarsgård utesluter inte fler säsonger.",
+   "url": "https://www.filmtopp.se/nyhet/tv4play-skarsgard-avslojar-om-det-kan-komma-fler-wallander-sasonger",
+   "source": "Filmtopp",
    "country": "SE",
    "topics": [
-    "Distribution",
-    "Samproduktion"
+    "Festivaler & priser",
+    "Distribution"
    ],
    "format": "Serie",
-   "addedAt": "2026-10-24T15:10:27+00:00"
+   "addedAt": "2026-11-17T07:30:00+01:00"
   },
   {
-   "id": "72d4cfaf42de",
-   "published": "2026-10-21",
-   "title": "Anna Croneman: biopubliken har hittat tillbaka till svensk film",
-   "summary": "När Svenska Filminstitutet i ett pressmeddelande rapporterar att svenska titlar tar fem av tio platser på biotopplistan säger vd Anna Croneman att institutet och branschen arbetat i två år för att vinna tillbaka publiken. Hon tror att höstens utbud förlänger uppgången.",
-   "url": "https://pressroom.filminstitutet.se/pressreleases/raettelse-fem-av-tio-svenska-filmer-paa-biotoppen-3473718",
-   "source": "Svenska Filminstitutet",
+   "id": "d5b86e429479",
+   "published": "2026-11-16",
+   "title": "Mikael Syrén regisserar SVT:s julkalender Den ofrivillige tomten",
+   "summary": "Hampus Nessvold spelar pappan Per och Joline Ingels Graham dottern Edith i årets julkalender, som Mikael Syrén regisserar. Serien har 24 avsnitt och börjar sändas i SVT den 1 december.",
+   "url": "https://www.svt.se/kultur/pappa-lever-dubbelliv-i-arets-julkalender",
+   "source": "SVT Kultur",
    "country": "SE",
+   "topics": [
+    "Produktion",
+    "Distribution"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-17T07:30:00+01:00"
+  },
+  {
+   "id": "df8b7eadc8b6",
+   "published": "2026-11-16",
+   "title": "Iceguys The Movie etta på isländska biolistan tredje helgen",
+   "summary": "Iceguys The Movie lockade 4 944 besökare under helgen och har nu sammanlagt 23 360 på tre veckor, enligt FRISK. Fuglar og menn har nått 5 747 besökare efter åtta veckor.",
+   "url": "https://klapptre.is/2026/11/16/afram-god-adsokn-a-iceguys-the-movie/",
+   "source": "Klapptré",
+   "country": "IS",
    "topics": [
     "Distribution"
    ],
    "format": "Film",
-   "addedAt": "2026-10-24T15:10:27+00:00"
+   "addedAt": "2026-11-17T07:30:00+01:00"
   },
   {
-   "id": "7583cf6b60f9",
-   "published": "2026-10-21",
-   "title": "Aarhus samlar tre festivaler i nya Aarhus Series & Film Festival",
-   "summary": "Filmby Aarhus slår ihop THIS, Aarhus Series och Aarhus Film Days till en festival 1 till 8 november, med branschprogram 2 till 6 november och prisutdelningen Series Awards. Festivalen ska stärka den västdanska produktionsbranschen och får stöd från Nordisk Film & TV Fond.",
-   "url": "https://nordiskfilmogtvfond.com/news/stories/aarhus-launches-unified-festival-to-strengthen-the-audiovisual-industry",
-   "source": "Nordisk Film & TV Fond",
+   "id": "55b60e3d023c",
+   "published": "2026-11-16",
+   "title": "Ronja Rövardotter får andra säsong i Sveriges Televisions jul",
+   "summary": "Sveriges Television sänder sex nya avsnitt av dramaserien Ronja Rövardotter från 24 december. Julkalendern Den ofrivillige tomten i 24 avsnitt startar 1 december, och Carina Bergfeldt är årets julvärd.",
+   "url": "https://omoss.svt.se/arkiv/nyhetsarkiv/2026-11-16-julen-i-svt-2026.html",
+   "source": "Sveriges Television, pressrum",
+   "country": "SE",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-16T14:55:00+01:00"
+  },
+  {
+   "id": "cd8d4a5fc53f",
+   "published": "2026-11-15",
+   "title": "Fem kortfilmer tävlar om bästa scenografi på Ekko Shortlist Awards",
+   "summary": "Scenografen Nikolaj Danielsen bedömer de fem nominerade till bästa scenografi, bland dem Barbershoppen, Mindi och Måske i marts. Vinnarna utses på galan i Bremen Teater i Köpenhamn den 19 november 2026.",
+   "url": "https://www.ekkofilm.dk/artikler/rummene-skal-smelte-sammen-med-helheden/",
+   "source": "Ekko",
+   "country": "DK",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-17T07:30:00+01:00"
+  },
+  {
+   "id": "10565f04b922",
+   "published": "2026-11-15",
+   "title": "Kvinde ukendt får silvergrodan för foto på Camerimage",
+   "summary": "Fotografen Jasper J. Spanning fick Silver Frog i huvudtävlingen på Camerimage i Polen för sitt arbete med May el-Toukhys Kvinde ukendt. Guldgrodan gick till Łukasz Żal för Fatherland.",
+   "url": "https://www.filmofilia.com/camerimage-2026-winners-fatherland-wild-horse-nine-233223/",
+   "source": "FilmoFilia",
+   "country": "DK",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-16T07:30:00+01:00"
+  },
+  {
+   "id": "2bddb43106d3",
+   "published": "2026-11-15",
+   "title": "Felix Herngrens Där solen alltid skiner får andra säsong på SkyShowtime",
+   "summary": "Andra säsongen av komediserien Där solen alltid skiner, skapad och regisserad av Felix Herngren med Kristofer Hivju och Johan Glans, har premiär på SkyShowtime 16 november 2026.",
+   "url": "https://www.filmtopp.se/nyhet/skyshowtime-nu-ar-svensk-succeserie-tillbaka-med-ny-sasong-hade-valdigt-roligt",
+   "source": "Filmtopp",
+   "country": "SE",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-16T07:30:00+01:00"
+  },
+  {
+   "id": "64a9e6555e12",
+   "published": "2026-11-15",
+   "title": "Lena Olin tar emot Bronshästen för sin livsgärning",
+   "summary": "Stockholms filmfestival hedrar Lena Olin med Bronshästen som pris för hennes karriär. Olin har nyligen fått en roll i en brittisk tv-serie efter Stieg Larssons Millenniumböcker.",
+   "url": "https://www.svt.se/kultur/lena-olin-jag-vill-spela-en-liten-gra-mus",
+   "source": "SVT Kultur",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-16T07:30:00+01:00"
+  },
+  {
+   "id": "79fb2544e462",
+   "published": "2026-11-15",
+   "title": "Even Hafnor saknar Trond Giske som kulturminister med visioner för film",
+   "summary": "Regissören Even Hafnor, aktuell med Velkommen til familien på bio sedan 13 november, säger till MovieZine att Trond Giske kanske var Norges sista kulturminister med verkliga visioner för filmbranschen. Skådespelaren Inga Ibsdotter Lilleaas efterlyser mer pengar till norsk film.",
+   "url": "https://www.moviezine.no/nyheter/vi-ma-fa-tilbake-trond-giske-han-var-veldig-glad-i-a-prioritere-film",
+   "source": "MovieZine Norge",
+   "country": "NO",
+   "topics": [
+    "Politik & policy",
+    "Finansiering"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-16T07:30:00+01:00"
+  },
+  {
+   "id": "87288bf8d8a6",
+   "published": "2026-11-15",
+   "title": "Jury för Producentforeningens producentpris på Ekko Shortlist Awards klar",
+   "summary": "Christian Lønhart, Maria Møller Kjeldgaard och Claus Christensen väljer vinnare av Producer Prisen bland producenterna bakom 143 kortfilmer. Nominerade presenteras 16 november och priset delas ut 19 november på Bremen Teater i Köpenhamn.",
+   "url": "https://www.ekkofilm.dk/artikler/pa-jagt-efter-det-store-producer-talent/",
+   "source": "Ekko",
    "country": "DK",
    "topics": [
     "Festivaler & priser"
    ],
    "format": "Bransch",
-   "addedAt": "2026-10-24T15:10:27+00:00"
+   "addedAt": "2026-11-16T07:30:00+01:00"
   },
   {
-   "id": "c802422fa1c3",
-   "published": "2026-10-21",
-   "title": "Stockholms branschdagar presenterar tretton nordiska film- och serieprojekt",
-   "summary": "Stockholms filmfestivals branschdagar 16 till 19 november låter 13 nordiska film- och serieprojekt söka partner, bland dem Gunhild Engers ”Stone Life” och färöiska serien ”GØTUBRÅ”. Programmet tar även upp ”Fjord” och andra säsongen av advokatserien ”Burden of Evidence” med manusförfattaren Jens Lapidus.",
-   "url": "https://cineuropa.org/en/newsdetail/496604/",
-   "source": "Cineuropa",
+   "id": "8ca068e38c35",
+   "published": "2026-11-15",
+   "title": "Alex Schulmans Arkipelag prisas två gånger i Sevilla",
+   "summary": "Arkipelag, Sveriges Oscarsbidrag i regi av Alex Schulman, vann Puerta América-priset på Sevillas europeiska filmfestival. Gustaf Skarsgård, Fares Fares och Linus Wahlgren delade dessutom priset för bästa manliga skådespelare.",
+   "url": "https://www.filmofilia.com/seville-2026-awards-you-dont-belong-here-233233/",
+   "source": "FilmoFilia",
    "country": "SE",
    "topics": [
-    "Utveckling",
     "Festivaler & priser"
    ],
-   "format": "Bransch",
-   "addedAt": "2026-10-24T15:10:27+00:00"
+   "format": "Film",
+   "addedAt": "2026-11-16T07:30:00+01:00"
   },
   {
-   "id": "d39d8d45bfbc",
-   "published": "2026-10-21",
-   "title": "Norska producenter medverkar i åtta länders Oscarsbidrag",
-   "summary": "Förutom Norges Markens grøde har sju andra länders Oscarsbidrag norsk medverkan, bland dem Iraks No Paradise If You Are Killed by a Woman och Rumäniens Fjord. Fem av filmerna har fått stöd från Sørfond, som norska utrikesdepartementet finansierar.",
-   "url": "https://www.nfi.no/en/news/aatte-oscar-kandidater-med-norsk-involvering",
-   "source": "Norsk filminstitutt",
+   "id": "c79dcdf751a3",
+   "published": "2026-11-15",
+   "title": "Adam Pålssons julkomedi Bara till jul toppar Netflix i Sverige",
+   "summary": "Den svenska julfilmen Bara till jul, med Félice och Happy Jankell, leder Netflix filmlista i Sverige och ligger runt andra plats globalt efter premiären 12 november, trots svala recensioner.",
+   "url": "https://www.moviezine.se/nyheter/tittarna-alskar-bara-till-jul-netflix",
+   "source": "MovieZine",
+   "country": "SE",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-16T07:30:00+01:00"
+  },
+  {
+   "id": "a58d7e07056c",
+   "published": "2026-11-14",
+   "title": "Charlotte Brändström blir exekutiv producent för tredje säsongen av Maktens ringar",
+   "summary": "Den svenska regissören Charlotte Brändström, som regisserade avsnitt i de två första säsongerna av Prime Videos Maktens ringar, har klivit upp som exekutiv producent för tredje säsongen. Seriens skapare J.D. Payne och Patrick McKay berömmer hennes visuella inflytande.",
+   "url": "https://www.moviezine.se/nyheter/maktens-ringar-skaparna-hyllar-svenska-regissoren-charlotte-brandstrom",
+   "source": "MovieZine",
+   "country": "SE",
+   "topics": [
+    "Personal & tillsättningar",
+    "Produktion"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-15T07:05:00+01:00"
+  },
+  {
+   "id": "a80a23f1ed36",
+   "published": "2026-11-14",
+   "title": "Lena Olin spelar Isabella Vanger i ny brittisk Millenniumserie",
+   "summary": "Inspelningen pågår av en ny brittisk serie i åtta avsnitt byggd på Män som hatar kvinnor, med Viola Prettejohn som Lisbeth Salander och Lena Olin som Isabella Vanger. Serien har ännu inget premiärdatum.",
+   "url": "https://www.moviezine.se/nyheter/lena-olin-om-nya-man-som-hatar-kvinnor-serien-en-helt-sinnessjuk-familj",
+   "source": "MovieZine",
+   "country": "SE",
+   "topics": [
+    "Produktion"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-15T07:05:00+01:00"
+  },
+  {
+   "id": "c4ab123922cd",
+   "published": "2026-11-14",
+   "title": "Fjord nomineras i fem kategorier till Europeiska filmpriset",
+   "summary": "Den norsk-rumänska Guldpalmsvinnaren Fjord får fem nomineringar, bland annat Renate Reinsve för bästa kvinnliga huvudroll och Cristian Mungiu för regi. Marlene Emilie Lyngstads Cute nomineras som bästa europeiska upptäckt. Galan hålls i Aten den 16 januari.",
+   "url": "https://www.moviezine.no/nyheter/renate-reinsve-er-nominert-til-europas-beste-skuespiller",
+   "source": "MovieZine Norge",
    "country": "NO",
    "topics": [
-    "Samproduktion",
     "Festivaler & priser"
    ],
    "format": "Film",
-   "addedAt": "2026-10-24T15:10:27+00:00"
+   "addedAt": "2026-11-15T07:05:00+01:00"
   },
   {
-   "id": "056cb1a10e79",
-   "published": "2026-10-20",
-   "title": "Olivia Colman får hederspris på Stockholms filmfestival",
-   "summary": "Stockholms filmfestival ger Stockholm Achievement Award 2026 till den brittiska skådespelaren Olivia Colman. Hon tar emot priset den 11 november på Bio Skandia, där filmen Wicker med Alexander Skarsgård och Gustav Lindh får nordisk premiär.",
-   "url": "https://www.mynewsdesk.com/se/stockholms_filmfestival/pressreleases/oscarsbeloenade-olivia-colman-tilldelas-stockholm-achievement-award-2026-3473097",
-   "source": "Stockholms filmfestival",
-   "country": "SE",
+   "id": "cff45a4c709b",
+   "published": "2026-11-14",
+   "title": "Tre danska filmer nominerade till Europeiska filmpriset",
+   "summary": "May el-Toukhys Kvinde ukendt får tre nomineringar, bland annat för bästa europeiska film och för Mathilde Arcels huvudroll. Mads Mengels Gæsten och Marlene Emilie Lyngstads Cute tävlar om debutpriset European Discovery. Galan hålls i Aten den 16 januari 2027.",
+   "url": "https://via.ritzau.dk/pressemeddelelse/15286789/tre-danske-film-nomineret-til-european-film-awards?lang=da",
+   "source": "Det Danske Filminstitut (Via Ritzau)",
+   "country": "DK",
    "topics": [
     "Festivaler & priser"
    ],
    "format": "Film",
-   "addedAt": "2026-10-24T20:17:34+00:00"
+   "addedAt": "2026-11-15T07:05:00+01:00"
   },
   {
-   "id": "0b6b6299c352",
-   "published": "2026-10-20",
-   "title": "Fem nordiska projekt tävlar i Nordic Wave i Stockholm",
-   "summary": "Stockholms filmfestival har nominerat fem nordiska film- och serieprojekt till pitchtävlingen Nordic Wave på Stockholm Industry Days. Vinnaren får 400 000 kronor i stöd till postproduktion tillsammans med Tint och utses på Soho House den 19 november.",
-   "url": "https://www.mynewsdesk.com/se/stockholms_filmfestival/pressreleases/meet-the-filmmakers-nominated-for-nordic-wave-2026-3473115",
-   "source": "Stockholms filmfestival",
-   "country": "NORDEN",
+   "id": "e06c5f9f9a2d",
+   "published": "2026-11-14",
+   "title": "Super16-regissörerna Skibsted och Ferguen har fem Ekkonomineringar var",
+   "summary": "Kathrine Skibsteds Heartbreak Hotel och Sabrina Ferguens Rødder, båda examensfilmer från Super16, tävlar om bästa fiktion på Ekko Shortlist Awards den 19 november i Bremen Teater. Skibsted vill utveckla Heartbreak Hotel till en serie.",
+   "url": "https://www.ekkofilm.dk/artikler/fem-nomineringer-hver-og-klar-til-naeste-skridt/",
+   "source": "Ekko",
+   "country": "DK",
    "topics": [
     "Festivaler & priser",
-    "Utveckling",
-    "Samproduktion"
+    "Utveckling"
    ],
-   "format": "Bransch",
-   "addedAt": "2026-10-24T20:17:34+00:00"
+   "format": "Film",
+   "addedAt": "2026-11-15T07:05:00+01:00"
   },
   {
-   "id": "400092556ca0",
-   "published": "2026-10-20",
-   "title": "Dokumentären Smugglaren får biopremiär med samtal efter visningarna",
-   "summary": "Sylvelin Måkestads finsk-svenska dokumentär Smugglaren, samproducerad av Film Stockholm, har biopremiär i Sverige 23 oktober 2026. Från 20 till 28 oktober visas den i Stockholmsområdet med samtal mellan regissören och huvudpersonen.",
-   "url": "https://filmstockholm.se/?post_type=post&p=27730",
-   "source": "Film Stockholm",
-   "country": "SE",
-   "topics": [
-    "Distribution",
-    "Samproduktion"
-   ],
-   "format": "Dokumentär",
-   "addedAt": "2026-10-24T20:17:34+00:00"
-  },
-  {
-   "id": "6dd53ca40014",
-   "published": "2026-10-20",
-   "title": "Jävla karlar hedras med särskilt omnämnande i Warszawa",
-   "summary": "Jens Sjögrens svenska långfilm Jävla karlar fick ett särskilt omnämnande när den 42:a filmfestivalen i Warszawa avslutades 17 oktober. Festivalen visade tio nordiska långfilmer, och huvudpriset gick till polska Cudze rzeczy av Grzegorz Dębowski.",
-   "url": "https://nordiskfilmogtvfond.com/news/stories/warsaw-film-festival-wraps-with-bloody-men-honoured-by-a-special-mention",
-   "source": "Nordisk Film & TV Fond",
-   "country": "NORDEN",
+   "id": "e2de8f3c4e71",
+   "published": "2026-11-14",
+   "title": "Femmannajury väljer vinnaren av Ekkos Diversitet Prisen",
+   "summary": "Claus Christensen, Puk Grasten, Diêm Camille, Daniel Svarts och Tina Bremer utser fem nominerade och en vinnare till Diversitet Prisen. SF Studios sponsrar priset, som delas ut för sjätte gången den 19 november 2026 i Bremen Teater.",
+   "url": "https://www.ekkofilm.dk/artikler/de-skal-finde-diversitetens-helte/",
+   "source": "Ekko",
+   "country": "DK",
    "topics": [
     "Festivaler & priser"
    ],
-   "format": "Film",
-   "addedAt": "2026-10-24T20:17:34+00:00"
+   "format": "Bransch",
+   "addedAt": "2026-11-15T07:05:00+01:00"
   },
   {
-   "id": "bc67022c8589",
-   "published": "2026-10-20",
-   "title": "Yngve Sætre får Lyskaster 2026 och Astri Nyaas Talentpris",
-   "summary": "Vestnorsk filmsenter delade ut sina årliga priser på branschkvällen under Bergen Internasjonale Filmfestival. Yngve Sætre, som medverkat i ett sextiotal filmer, fick Lyskaster och 30 000 norska kronor, och manusförfattaren Astri Nyaas fick Talentpris och 15 000 kronor.",
-   "url": "https://vestnorskfilm.no/nyheter/vinnerne-av-rets-lyskaster-og-talentpris-1",
-   "source": "Vestnorsk filmsenter",
+   "id": "17a97543d512",
+   "published": "2026-11-13",
+   "title": "Arktisk Film Norge visar fem nordnorska dokumentärprojekt på IDFA",
+   "summary": "Arktisk Film Norge och IDFA ordnade den första Arctic Film Showcase i Amsterdam den 14 november. Fem pågående dokumentärer presenterades för internationella partner, bland dem Hush av Guri Gunnes Oppegård och The Great Seagull Film av Sigurd Vaagland.",
+   "url": "https://arktiskfilmnorge.no/artikler/2026/arctic-film-showcase-at-idfa-2026/",
+   "source": "Arktisk Film Norge",
    "country": "NO",
    "topics": [
-    "Festivaler & priser"
+    "Festivaler & priser",
+    "Distribution"
    ],
-   "format": "Bransch",
-   "addedAt": "2026-10-24T15:11:34+00:00"
+   "format": "Dokumentär",
+   "addedAt": "2026-11-15T07:05:00+01:00"
   },
   {
-   "id": "9d5218b46542",
-   "published": "2026-10-20",
-   "title": "Joachim Triers Affeksjonsverdi får Nordiska rådets filmpris",
-   "summary": "Affeksjonsverdi vann Nordiska rådets filmpris på 300 000 danska kronor. Joachim Trier, medförfattaren Eskil Vogt och producenterna Maria Ekerhovd och Andrea Berentsen Ottmar delar på prissumman. Nordiska rådet delar ut priset 27 oktober.",
-   "url": "https://nordiskfilmogtvfond.com/news/stories/nordic-council-film-prize-2026-to-the-instant-classic-of-nordic-cinema-sentimental-value",
-   "source": "Nordisk Film & TV Fond",
-   "country": "NORDEN",
+   "id": "17fd1166a7f9",
+   "published": "2026-11-13",
+   "title": "Producentforeningen enas med fotografer och klippare om dokumentärvillkor",
+   "summary": "Producentforeningen, Dansk Film Fotograf Forbund och Dansk Filmklipperselskab följer tills vidare kort- och dokumentärfilmsavtalet med FAF medan förhandlingarna fortsätter. En kommande rättighetsbestämmelse gäller produktioner med avtal ingångna från den 6 november 2026.",
+   "url": "https://producentforeningen.dk/overenskomst/dokumentarfilm-aftale-mellem-producentforeningen-og-dansk-film-fotograf-forbund-og",
+   "source": "Producentforeningen",
+   "country": "DK",
    "topics": [
-    "Festivaler & priser"
+    "Avtal & arbetsvillkor"
    ],
-   "format": "Film",
-   "addedAt": "2026-10-24T15:10:27+00:00"
+   "format": "Dokumentär",
+   "addedAt": "2026-11-15T07:05:00+01:00"
+  },
+  {
+   "id": "5490929538e2",
+   "published": "2026-11-13",
+   "title": "Frivilligdrivna Glomfjord kino investerade 1,2 miljoner NOK i ny salong",
+   "summary": "Trond Arntzen berättade på Kinokonferansen i Bergen att den helt frivilligdrivna biografen lagt cirka 1 200 000 NOK av egna sparpengar på projektor, duk och en salong med 264 platser. I år väntas omkring 200 visningar av 75 filmer.",
+   "url": "https://kino.no/glomfjord-kino-vi-ma-vaere-en-del-av-lokalsamfunnet/",
+   "source": "Film & Kino",
+   "country": "NO",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-15T07:05:00+01:00"
+  },
+  {
+   "id": "54c96dc56fb1",
+   "published": "2026-11-13",
+   "title": "Marius Solberg vill att biograferna satsar på premiärperioden och gemenskap",
+   "summary": "Mothership Stories medgrundare Marius Solberg sa på Kinokonferansen i Bergen att biograferna ska nå dem som bestämmer gruppens filmval och bygga filmklubbar. Han kritiserade att stödordningar gynnar traditionella medier framför digitala filmförmedlare.",
+   "url": "https://kino.no/kino-ma-skape-fomo-ikke-bare-selge-billetter/",
+   "source": "Film & Kino",
+   "country": "NO",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-15T07:05:00+01:00"
+  },
+  {
+   "id": "6573381d6443",
+   "published": "2026-11-13",
+   "title": "Unga förknippar AI i film med fusk och manipulation",
+   "summary": "En rapport beställd av Det Danske Filminstitut bygger på samtal med 61 deltagare mellan 8 och 24 år. De accepterar AI för bakgrunder, ljus och ljud men inte för manus eller AI-skådespelare, och flera skulle känna sig lurade av dold AI.",
+   "url": "https://rushprint.no/2026/11/ki-pa-film-forbindes-med-juks-og-manipulasjon-av-unge/",
+   "source": "Rushprint",
+   "country": "DK",
+   "topics": [
+    "Politik & policy"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-15T07:05:00+01:00"
+  },
+  {
+   "id": "f574e5ea5ff3",
+   "published": "2026-11-13",
+   "title": "Strategen Peder Haugfos vill göra unga till deltagare på biografen",
+   "summary": "På Kinokonferansen i Bergen uppmanade Peder Haugfos biograferna att bygga på ungas fankultur. Han hänvisade till att 97 procent av 15 till 19-åringarna enligt Film & Kinos ungdomsundersökning gått på bio det senaste året.",
+   "url": "https://kino.no/kinoen-ma-bli-mer-enn-et-sted-a-se-film-unge-vil-vaere-deltakere-ikke-bare-publikum/",
+   "source": "Film & Kino",
+   "country": "NO",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-15T07:05:00+01:00"
   }
  ]
 }
