@@ -1,7 +1,37 @@
 {
- "generatedAt": "2026-11-18T07:08:35+01:00",
+ "generatedAt": "2026-11-18T18:08:26+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "efc277aa691f",
+   "published": "2026-11-18",
+   "title": "European Writers Club startar EWC 2.0 för europeiska dramaserier i Tallinn",
+   "summary": "European Writers Club och Estlands filminstitut lanserar EWC 2.0 på TV Beats i Tallinn. Plattformen tar årligen in högst åtta serieprojekt med knuten kanal, nästa omgång öppnar tidigt 2027 och Nordisk Film & TV Fond stödjer den nordiska delen.",
+   "url": "https://nordiskfilmogtvfond.com/news/stories/high-nordic-turnout-expected-as-ewc-2-0-is-launched",
+   "source": "Nordisk Film & TV Fond",
+   "country": "NORDEN",
+   "topics": [
+    "Utveckling",
+    "Samproduktion",
+    "Finansiering"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-18T17:52:00+01:00"
+  },
+  {
+   "id": "f1880decf39e",
+   "published": "2026-11-18",
+   "title": "Göteborg Film Festival utlyser kortfilmstävling om filmer på 50 sekunder",
+   "summary": "Inför 50-årsjubileet bjuder Göteborg Film Festival och Fujifilm in till tävlingen Forever in 50 på temat Forever Young. Filmer på högst 50 sekunder läggs upp med #foreverin50 senast 13 januari 2027 och tre finalister visas 1 februari.",
+   "url": "https://goteborgfilmfestival.se/nyheter/kortfilmstavling50-sekunder",
+   "source": "Göteborg Film Festival",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-18T17:52:00+01:00"
+  },
   {
    "id": "1350f1b08393",
    "published": "2026-11-17",
@@ -406,34 +436,6 @@
    ],
    "format": "Serie",
    "addedAt": "2026-11-16T14:55:00+01:00"
-  },
-  {
-   "id": "cd8d4a5fc53f",
-   "published": "2026-11-15",
-   "title": "Fem kortfilmer tävlar om bästa scenografi på Ekko Shortlist Awards",
-   "summary": "Scenografen Nikolaj Danielsen bedömer de fem nominerade till bästa scenografi, bland dem Barbershoppen, Mindi och Måske i marts. Vinnarna utses på galan i Bremen Teater i Köpenhamn den 19 november 2026.",
-   "url": "https://www.ekkofilm.dk/artikler/rummene-skal-smelte-sammen-med-helheden/",
-   "source": "Ekko",
-   "country": "DK",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-17T07:30:00+01:00"
-  },
-  {
-   "id": "10565f04b922",
-   "published": "2026-11-15",
-   "title": "Kvinde ukendt får silvergrodan för foto på Camerimage",
-   "summary": "Fotografen Jasper J. Spanning fick Silver Frog i huvudtävlingen på Camerimage i Polen för sitt arbete med May el-Toukhys Kvinde ukendt. Guldgrodan gick till Łukasz Żal för Fatherland.",
-   "url": "https://www.filmofilia.com/camerimage-2026-winners-fatherland-wild-horse-nine-233223/",
-   "source": "FilmoFilia",
-   "country": "DK",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-16T07:30:00+01:00"
   }
  ]
 }
