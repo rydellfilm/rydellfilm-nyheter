@@ -1,7 +1,136 @@
 {
- "generatedAt": "2026-11-18T18:08:26+01:00",
+ "generatedAt": "2026-11-19T07:08:17+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "0933a7845e42",
+   "published": "2026-11-19",
+   "title": "Oscarbelönade klipparen Mikkel E.G. Nielsen om arbetet med Martin McDonagh",
+   "summary": "Nordisk Film & TV Fond intervjuar den danske klipparen Mikkel E.G. Nielsen om Wild Horse Nine av Martin McDonagh. Han klipper nu Alexander Paynes danskspråkiga Somewhere Out There (Et sted derude), som når publiken 2027.",
+   "url": "https://nordiskfilmogtvfond.com/news/stories/nordic-film-talks-wild-horse-nine-editor-mikkel-e-g-nielsen",
+   "source": "Nordisk Film & TV Fond",
+   "country": "DK",
+   "topics": [
+    "Produktion",
+    "Personal & tillsättningar"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-19T07:30:00+01:00"
+  },
+  {
+   "id": "e9f4d678097b",
+   "published": "2026-11-19",
+   "title": "Aleksi Mäkeläs Häjyt 2 finns nu på MTV Katsomo Plus",
+   "summary": "Uppföljaren Häjyt 2, som hade biopremiär i februari 2025, går nu att strömma på MTV Katsomo Plus. Aleksi Mäkelä regisserade både den och originalfilmen Häjyt från 1999.",
+   "url": "https://episodi.fi/uutiset/aleksi-makelan-rikosdraaman-jatko-osa-saapui-suoratoistoon-ensimmaisesta-osasta-ehti-kulua-26-vuotta",
+   "source": "Episodi",
+   "country": "FI",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-19T07:30:00+01:00"
+  },
+  {
+   "id": "45f225615268",
+   "published": "2026-11-18",
+   "title": "Norska kortfilmen Sand i tissen prisas i Tallinn",
+   "summary": "Ingrid Runde Saxegaards kortfilm Sand i tissen, producerad av Stian Holt Skjelstad, vann huvudpriset för bästa spelfilm i den internationella tävlingen på PÖFF Shorts 2026 i Tallinn. Priset gör filmen kvalificerad för en Oscarsnominering.",
+   "url": "https://rushprint.no/2026/11/sand-i-tissen-tildelt-kortfilmpris-i-tallinn",
+   "source": "Rushprint",
+   "country": "NO",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-19T07:30:00+01:00"
+  },
+  {
+   "id": "8e4c11d2045d",
+   "published": "2026-11-18",
+   "title": "Sigurjón Sighvatsson fick RIFF:s hederspris för sin livsgärning",
+   "summary": "Den isländske producenten Sigurjón Sighvatsson tog emot hederspriset på Reykjavík International Film Festival 2026 vid en dubbelvisning av David Lynchs verk, 40 år efter att han var med och grundade Propaganda Films.",
+   "url": "https://klapptre.is/2026/11/18/sigurjon-sighvatsson-hlaut-heidursverdlaun-riff-fyrir-aeviframlag-sitt",
+   "source": "Klapptré",
+   "country": "IS",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-19T07:30:00+01:00"
+  },
+  {
+   "id": "9123cc3d7ef9",
+   "published": "2026-11-18",
+   "title": "Hasse Ekmans Flicka och hyacinter restaurerad i 4K för Cinemateket Play",
+   "summary": "Svenska Filminstitutet har digitalt restaurerat Hasse Ekmans film från 1950 i 4K utifrån en kopia, eftersom originalnegativet saknas. Filmen finns på Cinemateket Play från den 27 november och visas i förväg i Filmhuset den 24 november.",
+   "url": "https://pressroom.filminstitutet.se/pressreleases/inbjudan-till-foerhandsvisning-digitalt-nyrestaurerade-flicka-och-hyacinter-faar-nytt-liv-paa-cinemateket-play-3479004",
+   "source": "Svenska Filminstitutet",
+   "country": "SE",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-19T07:30:00+01:00"
+  },
+  {
+   "id": "9b883ba4b5c1",
+   "published": "2026-11-18",
+   "title": "Shudder visar trailer för finska skräckkomedin Punaista lunta",
+   "summary": "Ilja Rautsis första långfilm Punaista lunta får finsk biopremiär 20 november och når den amerikanska strömningstjänsten Shudder 11 december. Hannu-Pekka Björkman och Anni Iikkanen spelar huvudrollerna.",
+   "url": "https://episodi.fi/uutiset/vampyyripukki-nayttaa-naamansa-jenkkistriimipalvelu-julkaisi-suomalaisen-kauhuleffan-trailerin",
+   "source": "Episodi",
+   "country": "FI",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-19T07:30:00+01:00"
+  },
+  {
+   "id": "9d1a19f75ba1",
+   "published": "2026-11-18",
+   "title": "Emilie Beck kritiserar TV 2:s dokumentärserie om profeten i Bærum",
+   "summary": "Regissören och serieskaparen Emilie Beck anser i en debattartikel att TV 2:s serie om profeten i Bærum sätter sensation före etik, och hon ifrågasätter att kanalen godkände dolda inspelningar som underhållning.",
+   "url": "https://rushprint.no/2026/11/regissor-eller-sensasjonsjeger",
+   "source": "Rushprint",
+   "country": "NO",
+   "topics": [
+    "Politik & policy",
+    "Distribution"
+   ],
+   "format": "Dokumentär",
+   "addedAt": "2026-11-19T07:30:00+01:00"
+  },
+  {
+   "id": "d3a70cc5f3d7",
+   "published": "2026-11-18",
+   "title": "TV 2 försvarar dokumentärserien Kollaps – profeten i Bærum",
+   "summary": "Programredaktören Trygve Rønningen på TV 2 svarar Emilie Beck och skriver att alla påståenden i Finn-Erik Rognans serie granskades redaktionellt och att de få dolda inspelningarna behövdes för att belägga uppgifter om drogbruk.",
+   "url": "https://rushprint.no/2026/11/det-handler-ikke-om-sensasjonsjag-men-sannferdighet",
+   "source": "Rushprint",
+   "country": "NO",
+   "topics": [
+    "Politik & policy",
+    "Distribution"
+   ],
+   "format": "Dokumentär",
+   "addedAt": "2026-11-19T07:30:00+01:00"
+  },
+  {
+   "id": "f3aefe33dbc6",
+   "published": "2026-11-18",
+   "title": "Andra säsongen av Åremorden får premiär på Netflix den 27 december",
+   "summary": "Netflix har bekräftat premiärdatum för andra säsongen av Åremorden, som bygger på Viveca Stens romaner Botgöraren och Vilseledaren. Carla Sehn och Kardo Razzazi återvänder, och Simon J. Berger, Sigrid Johnson och Vilhelm Blomgren är nya i rollistan.",
+   "url": "https://www.filmtopp.se/nyhet/netflix-bekraftat-premiardatum-for-aremorden-sasong-2-pa-netflix-se-nya-bilderna",
+   "source": "Filmtopp",
+   "country": "SE",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-19T07:30:00+01:00"
+  },
   {
    "id": "efc277aa691f",
    "published": "2026-11-18",
@@ -31,6 +160,52 @@
    ],
    "format": "Film",
    "addedAt": "2026-11-18T17:52:00+01:00"
+  },
+  {
+   "id": "998574c6a826",
+   "published": "2026-11-17",
+   "title": "Nya Wallander hade världspremiär i Stockholm och visas på TV4 Play+ i vår",
+   "summary": "Wallander: Steget efter med Gustaf Skarsgård hade världspremiär den 14 november på Stockholms filmfestival. Jarowskij/Yellow Bird producerar tillsammans med TV4, Film i Skåne, Ystad-Österlen Filmfond och ARD Degeto, och serien når TV4 Play+ våren 2027.",
+   "url": "https://filmiskane.se/sv/artiklar/varldspremiar-for-wallander-steget-efter-pa-stockholms-filmfestival",
+   "source": "Film i Skåne",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser",
+    "Distribution",
+    "Samproduktion"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-19T07:30:00+01:00"
+  },
+  {
+   "id": "d6354e30379a",
+   "published": "2026-11-17",
+   "title": "Nordisk lys på Cinemateket lyfter nordisk film under fyra dagar",
+   "summary": "Filmfestivalen Nordisk lys pågår 19 till 22 november 2026 på Cinemateket i Köpenhamn. Den öppnar med förhandsvisning av norska Cute och ett samtal med regissören Marlene Emilie Lyngstad, och programmet rymmer även Dag Johan Haugeruds trilogi.",
+   "url": "https://ekkofilm.dk/artikler/festival-slar-et-slag-for-nordiske-film",
+   "source": "Ekko",
+   "country": "DK",
+   "topics": [
+    "Festivaler & priser",
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-19T07:30:00+01:00"
+  },
+  {
+   "id": "dd6e8c25311f",
+   "published": "2026-11-17",
+   "title": "MEDIA-desk Norge håller digitalt möte om EU-stöd till dataspel",
+   "summary": "Norsk filminstitutt meddelar att MEDIA-desk Norge den 9 december klockan 13.30 till 14.30 håller ett kostnadsfritt digitalt informationsmöte om Kreativa Europa MEDIA:s stöd till utveckling av dataspel och immersivt innehåll inför 2027.",
+   "url": "https://nfi.no/nyheter/media-desk-norge-infomote-om-tilskudd-til-dataspill",
+   "source": "Norsk filminstitutt",
+   "country": "NO",
+   "topics": [
+    "Finansiering",
+    "Utveckling"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-19T07:30:00+01:00"
   },
   {
    "id": "1350f1b08393",
@@ -263,179 +438,6 @@
    ],
    "format": "Bransch",
    "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "a3d0ff1ef38a",
-   "published": "2026-11-16",
-   "title": "Jalmari Helander regisserar actionthrillern Fairytale in New York för Netflix",
-   "summary": "Finländske Jalmari Helander gör sin tredje film med Lionsgate, en thriller på julafton i New York med Aaron Pierre i huvudrollen. Netflix vann budgivningen om distributionen enligt Deadline.",
-   "url": "https://stara.fi/2026/11/16/suomalainen-jalmari-helander-tekee-netflixille-toimintaelokuvan",
-   "source": "Stara.fi",
-   "country": "FI",
-   "topics": [
-    "Produktion",
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "ffef4c8e654e",
-   "published": "2026-11-16",
-   "title": "FilmFyn visar första klippet ur Hvad stiller vi op med far?",
-   "summary": "Henrik Ruben Genz komedi om tre systrar, inspelad i Assens, får premiär 7 januari 2027 inom Biografklub Danmark. Scanbox Productions producerar med stöd från Det Danske Filminstitut, FilmFyn, Nordisk Film & TV Fond och TV 2 Danmark.",
-   "url": "https://filmfyn.dk/tre-sostre-et-videokald-og-assens-som-kulisse-se-forste-klip-fra-hvad-stiller-vi-op-med-far",
-   "source": "FilmFyn",
-   "country": "DK",
-   "topics": [
-    "Distribution",
-    "Produktion"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "2ec319af697e",
-   "published": "2026-11-16",
-   "title": "In defense of self får Nordic Docs pris för bästa långa dokumentär",
-   "summary": "Linn Helene Løkens In defense of self vann bästa långa dokumentär på fjortonde upplagan av Nordic Docs. Robin Jensens Time of Plenty från Mikrofilm vann klassen under 60 minuter och Andrea Helen Bergli Støvreides Når voksne leker fick publikens pris.",
-   "url": "https://rushprint.no/2026/11/nordic-docs-med-prisdryss-til-norske-dokumentarer/",
-   "source": "Rushprint",
-   "country": "NO",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Dokumentär",
-   "addedAt": "2026-11-17T07:30:00+01:00"
-  },
-  {
-   "id": "39ee63fc7997",
-   "published": "2026-11-16",
-   "title": "Michael Lindgrens komedi Flaggan säljer bäst på SF Anytime",
-   "summary": "Flaggan, som gick upp på bio i augusti 2026, är nu den mest köpta filmen på SF Anytime. Noel Flike och Arvid Swedrup spelar huvudrollerna med Henrik Dorsin och Markoolio i biroller.",
-   "url": "https://www.moviezine.se/nyheter/digitalpremiar-flaggan-sf-anytime",
-   "source": "MovieZine",
-   "country": "SE",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-17T07:30:00+01:00"
-  },
-  {
-   "id": "3d20eb51b7f7",
-   "published": "2026-11-16",
-   "title": "David F. Sandberg gör skräckfilmen Mommy's Home med Dave Franco",
-   "summary": "Den svenske regissören David F. Sandbergs nästa film handlar om en mor som tinas upp efter flera år och vill flytta in hos sin son. James Morosini skriver manus och Willa Fitzgerald spelar mot Dave Franco.",
-   "url": "https://www.moviezine.se/nyheter/hans-doda-mamma-tinas-upp-och-flyttar-in-i-nya-skrackfilmen-fran-svenske-regissoren",
-   "source": "MovieZine",
-   "country": "SE",
-   "topics": [
-    "Produktion"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-17T07:30:00+01:00"
-  },
-  {
-   "id": "51d299ccd3be",
-   "published": "2026-11-16",
-   "title": "Filminvest ger manusstöd till fem projekt i årets andra omgång",
-   "summary": "Filminvest rekommenderar manusutvecklingsstöd till långfilmerna Hysj, The Lost Paradise och Orkan, serien Ferskinger av Trond Morten K Veenasen och spelet Stiklestad. Långfilmerna skrivs av Talon Darren Winsnes, Emil Kobberød och Anna Lian. Beloppen redovisas inte.",
-   "url": "https://filminvest.no/2026/11/nye-manustilskudd/",
-   "source": "Filminvest",
-   "country": "NO",
-   "topics": [
-    "Utveckling",
-    "Finansiering"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-17T07:30:00+01:00"
-  },
-  {
-   "id": "964d740c0b27",
-   "published": "2026-11-16",
-   "title": "Céline Sciamma gästar Tromsø Internasjonale Filmfestival med retrospektiv och masterclass",
-   "summary": "Tromsø Internasjonale Filmfestival visar sju filmer av Céline Sciamma, bland dem Porträtt av en kvinna i brand, och hon håller en masterclass under festivalen 18 till 24 januari 2027. Hennes debut Water Lilies vann festivalens huvudpris Aurora 2008.",
-   "url": "https://www.tiff.no/en/news/celine-sciamma-gjester-tiff-2027",
-   "source": "Tromsø Internasjonale Filmfestival",
-   "country": "NO",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-17T07:30:00+01:00"
-  },
-  {
-   "id": "b0b6daa02685",
-   "published": "2026-11-16",
-   "title": "Lapin sota passerar 285 000 biobesökare i Finland",
-   "summary": "Aku Louhimiehens krigsfilm Lapin sota toppade biolistan för fjärde helgen i rad med 25 371 besökare och har nu 285 766 totalt, enligt Finlands filmstiftelse. Kerro kaikille har nått 74 066 besökare.",
-   "url": "https://www.ses.fi/ajankohtaista/top-20-viiden-karjessa-oli-kolme-ensi-iltaa/",
-   "source": "Finlands filmstiftelse",
-   "country": "FI",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-17T07:30:00+01:00"
-  },
-  {
-   "id": "b61aafa2c35d",
-   "published": "2026-11-16",
-   "title": "Wallander med Gustaf Skarsgård visades på Stockholms filmfestival",
-   "summary": "Wallander – Steget efter fick sin första stora visning på Stockholms filmfestival och har premiär på TV4 Play+ våren 2027. Två uppföljande filmer väntas under 2027 och Skarsgård utesluter inte fler säsonger.",
-   "url": "https://www.filmtopp.se/nyhet/tv4play-skarsgard-avslojar-om-det-kan-komma-fler-wallander-sasonger",
-   "source": "Filmtopp",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser",
-    "Distribution"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-11-17T07:30:00+01:00"
-  },
-  {
-   "id": "d5b86e429479",
-   "published": "2026-11-16",
-   "title": "Mikael Syrén regisserar SVT:s julkalender Den ofrivillige tomten",
-   "summary": "Hampus Nessvold spelar pappan Per och Joline Ingels Graham dottern Edith i årets julkalender, som Mikael Syrén regisserar. Serien har 24 avsnitt och börjar sändas i SVT den 1 december.",
-   "url": "https://www.svt.se/kultur/pappa-lever-dubbelliv-i-arets-julkalender",
-   "source": "SVT Kultur",
-   "country": "SE",
-   "topics": [
-    "Produktion",
-    "Distribution"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-11-17T07:30:00+01:00"
-  },
-  {
-   "id": "df8b7eadc8b6",
-   "published": "2026-11-16",
-   "title": "Iceguys The Movie etta på isländska biolistan tredje helgen",
-   "summary": "Iceguys The Movie lockade 4 944 besökare under helgen och har nu sammanlagt 23 360 på tre veckor, enligt FRISK. Fuglar og menn har nått 5 747 besökare efter åtta veckor.",
-   "url": "https://klapptre.is/2026/11/16/afram-god-adsokn-a-iceguys-the-movie/",
-   "source": "Klapptré",
-   "country": "IS",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-17T07:30:00+01:00"
-  },
-  {
-   "id": "55b60e3d023c",
-   "published": "2026-11-16",
-   "title": "Ronja Rövardotter får andra säsong i Sveriges Televisions jul",
-   "summary": "Sveriges Television sänder sex nya avsnitt av dramaserien Ronja Rövardotter från 24 december. Julkalendern Den ofrivillige tomten i 24 avsnitt startar 1 december, och Carina Bergfeldt är årets julvärd.",
-   "url": "https://omoss.svt.se/arkiv/nyhetsarkiv/2026-11-16-julen-i-svt-2026.html",
-   "source": "Sveriges Television, pressrum",
-   "country": "SE",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-11-16T14:55:00+01:00"
   }
  ]
 }
