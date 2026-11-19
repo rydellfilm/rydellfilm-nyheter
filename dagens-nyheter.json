@@ -1,7 +1,22 @@
 {
- "generatedAt": "2026-11-19T12:08:16+01:00",
+ "generatedAt": "2026-11-19T15:08:15+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "eef958239130",
+   "published": "2026-11-19",
+   "title": "Skydance ger nordiska producenter både möjligheter och risker",
+   "summary": "Nordisk Film & TV Fond analyserar sammanslagningen av Paramount och Warner Bros. Discovery till Skydance. SkyShowtime läggs ner i slutet av 2027 och Christina Sulebakk blir vice vd med ansvar för Norden.",
+   "url": "https://nordiskfilmogtvfond.com/news/stories/nordic-producers-face-opportunities-and-risks-as-skydance-takes-shape",
+   "source": "Nordisk Film & TV Fond",
+   "country": "NORDEN",
+   "topics": [
+    "Distribution",
+    "Personal & tillsättningar"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-19T13:55:00Z"
+  },
   {
    "id": "6fff6bb166a4",
    "published": "2026-11-19",
@@ -419,21 +434,6 @@
    "country": "IS",
    "topics": [
     "Politik & policy"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "28407884f277",
-   "published": "2026-11-16",
-   "title": "Nytt danskt bolag Northstar Studios startar fond för kommersiell film",
-   "summary": "Nicolai Afséus, Peter Mangaard, Brian Sean Tange och Lee Levi grundar Northstar Studios och fonden Northstar Film Ventures för större investerare. Bolaget lovar besked om projekt inom 14 dagar och spelar in thrillern Mirror Walker i Prag tidigt 2027.",
-   "url": "https://kino.dk/nyheder/kommerciel-er-ikke-et-fy-ord-nyt-dansk-produktionsselskab-vil-skabe-flere-film-og-give-nye-talenter-en-chance",
-   "source": "Kino.dk",
-   "country": "DK",
-   "topics": [
-    "Finansiering",
-    "Produktion"
    ],
    "format": "Bransch",
    "addedAt": "2026-11-18T07:15:00+01:00"
