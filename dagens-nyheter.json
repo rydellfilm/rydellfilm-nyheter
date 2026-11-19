@@ -1,7 +1,21 @@
 {
- "generatedAt": "2026-11-19T07:08:17+01:00",
+ "generatedAt": "2026-11-19T12:08:16+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "6fff6bb166a4",
+   "published": "2026-11-19",
+   "title": "Chronovisor vinner Bronshästen på Stockholms filmfestival 2026",
+   "summary": "Stockholms filmfestival delar ut Bronshästen för bästa film till Chronovisor av debutanterna Jack Auen och Kevin Walker. Jordan Firstman vinner bästa regi och manliga roll för Club Kid, Sophie Okonedo bästa kvinnliga roll för Clarissa och You Can See Everything bästa dokumentär.",
+   "url": "https://www.mynewsdesk.com/se/stockholms_filmfestival/pressreleases/2026-aars-vinnare-paa-stockholms-internationella-filmfestival-3479073",
+   "source": "Stockholms filmfestival",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-19T11:50:00+01:00"
+  },
   {
    "id": "0933a7845e42",
    "published": "2026-11-19",
@@ -420,21 +434,6 @@
    "topics": [
     "Finansiering",
     "Produktion"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "7d4db630b628",
-   "published": "2026-11-16",
-   "title": "Nordiska MEDIA-kontor samlar producenter till middag i Tallinn",
-   "summary": "MEDIA-desk Norge och kollegorna i Norden, Baltikum och Frankrike bjuder cirka 30 producenter, däribland norska, till middag 19 november under Industry@Tallinn & Baltic Event. Målet är nya samarbeten över gränserna när evenemanget firar 25 år.",
-   "url": "https://mediadesk.no/aktuelt/industry-tallinn-baltic-event-25-ar",
-   "source": "MEDIA-desk Norge",
-   "country": "NORDEN",
-   "topics": [
-    "Samproduktion",
-    "Festivaler & priser"
    ],
    "format": "Bransch",
    "addedAt": "2026-11-18T07:15:00+01:00"
