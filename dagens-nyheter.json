@@ -1,7 +1,153 @@
 {
- "generatedAt": "2026-11-19T15:08:15+01:00",
+ "generatedAt": "2026-11-20T07:08:03+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "09b2b1a85886",
+   "published": "2026-11-19",
+   "title": "SkyShowtime läggs ned i slutet av 2027 och vd:n lämnar",
+   "summary": "Ägarna Comcast och det Skydanceägda Paramount avvecklar strömningstjänsten SkyShowtime mot slutet av 2027. Tjänsten finns i 22 europeiska marknader, däribland Norden, och har beställt egna serier i bland annat Sverige, och vd Monty Sarhan lämnar bolaget.",
+   "url": "https://www.c21media.net/news/skyshowtime-to-be-shuttered-in-2027-ceo-monty-sarhan-steps-down/",
+   "source": "C21Media",
+   "country": "NORDEN",
+   "topics": [
+    "Distribution",
+    "Personal & tillsättningar"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "22be41990b4c",
+   "published": "2026-11-19",
+   "title": "Fem nordnorska dokumentärprojekt pitchades på IDFA i Amsterdam",
+   "summary": "Arktisk Film Norge presenterade fem dokumentärprojekt i Arctic Showcase på IDFA, bland dem Ballad of the North, Arctic Blue och The Great Seagull Film. Projekten kommer från bolag som Kino Jacobsen, Folk Film och UpNorth Film.",
+   "url": "https://arktiskfilmnorge.no/artikler/2026/arktisk-film-norge-med-fem-prosjekter-pa-idfa-2026/",
+   "source": "Arktisk Film Norge",
+   "country": "NO",
+   "topics": [
+    "Festivaler & priser",
+    "Utveckling"
+   ],
+   "format": "Dokumentär",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "55d57885a69a",
+   "published": "2026-11-19",
+   "title": "Dokumentärprojekt om Palestina vinner pitchpriset på Movies on War",
+   "summary": "Julie Lunde Lillesæter och Siri Nerbø vann pitchtävlingen på Movies on War i Elverum med projektet 24/7 for Palestina. Priset är på 100 000 NOK och delas ut med stöd från Sparebank1 Østlandet. Juryn hedrade även Knus krigsmaskinen.",
+   "url": "https://rushprint.no/2026/11/movies-on-war-pitcheprisen-til-prosjekt-om-palestina/",
+   "source": "Rushprint",
+   "country": "NO",
+   "topics": [
+    "Festivaler & priser",
+    "Utveckling"
+   ],
+   "format": "Dokumentär",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "94fc87e03ccb",
+   "published": "2026-11-19",
+   "title": "Heartbreak Hotel vinner huvudpriset vid Ekko Shortlist Awards",
+   "summary": "Kathrine Skibsteds kortfilm Heartbreak Hotel fick Shortlist Prisen på 25 000 DKK i Bremen Teater. Rødder av Sabrina Ferguen vann tre priser, bland dem bästa fiktion, och totalt belönades elva filmer.",
+   "url": "https://www.ekkofilm.dk/artikler/reality-drama-sejrer-ved-ekko-shortlist-awards-2026/",
+   "source": "Ekko",
+   "country": "DK",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "a44285293b52",
+   "published": "2026-11-19",
+   "title": "Kulturskolornas filmlärare samlades i Helsingborg när statsbidraget försvinner",
+   "summary": "Över 80 deltagare från 34 kommuner deltog i Kunskapsdagarna Film i Kulturskolan på Dunkers kulturhus 12 till 13 november. Där kom beskedet att det statliga utvecklingsbidraget till kulturskolan på 100 miljoner kronor stryks från 2027. Film i Skåne var en av arrangörerna.",
+   "url": "https://filmiskane.se/sv/artiklar/over-80-deltagare-fran-sodra-sverige-mottes-i-helsingborg-i-ett-samarrangemang-med-film-i-skane",
+   "source": "Film i Skåne",
+   "country": "SE",
+   "topics": [
+    "Politik & policy",
+    "Finansiering"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "aae4355b9a1e",
+   "published": "2026-11-19",
+   "title": "Nonni Ardal Hammarström får TV4 Rising Star Award 2026",
+   "summary": "Stockholms filmfestival delade ut TV4 Rising Star Award till Nonni Ardal Hammarström vid prisceremonin på Soho House i Stockholm. Han spelar en av huvudrollerna i Alex Schulmans Arkipelag. Bland de nominerade fanns Noel Flike, Segen Tesfai och Wilma Lidén.",
+   "url": "https://www.moviezine.se/nyheter/nonni-ardal-hammarstrom-tilldelas-2026-ars-rising-star-award",
+   "source": "MovieZine",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "cc1740251da6",
+   "published": "2026-11-19",
+   "title": "May el-Toukhy får mångfaldspriset vid Ekko Shortlist Awards",
+   "summary": "Regissören May el-Toukhy, vars Kvinde ukendt vann Guldlejonet i Venedig, tog emot Diversitet Prisen vid Ekko Shortlist Awards 2026. Diêm Camille delade ut priset.",
+   "url": "https://www.ekkofilm.dk/artikler/hos-dig-ma-kvinder-gerne-vaere-fejlbarlige/",
+   "source": "Ekko",
+   "country": "DK",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "d7ad2f8f5ebd",
+   "published": "2026-11-19",
+   "title": "Christian Fandango gestaltar Peer Gynt i Per Flys nutidsversion",
+   "summary": "Per Fly regisserar Gynt. I'm Not Like You med en budget på närmare 100 miljoner kronor. Christian Fandango, Pernilla August, Gina Gørvell och Ulrich Thomsen medverkar. Inspelningen i Kroatien är klar och fortsätter i Göteborg. Scanbox Entertainment har biopremiär julen 2027.",
+   "url": "https://www.moviezine.se/nyheter/christian-fandango-spelar-peer-gynt-i-svensk-storfilm-for-100-miljoner-kronor",
+   "source": "MovieZine",
+   "country": "SE",
+   "topics": [
+    "Produktion",
+    "Distribution",
+    "Finansiering"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "daad47b0fd70",
+   "published": "2026-11-19",
+   "title": "Fem manusförfattare av barnfilm möter producenter i Oslo",
+   "summary": "Sørnorsk Filmsenter bjuder in till Manus møter produsent den 27 november i Filmens Hus i Oslo. Fem manusförfattare presenterar nya barnfilmsmanus för sju producenter. Evenemanget är gratis och har stöd från Norsk filminstitutt.",
+   "url": "https://www.sornorskfilm.no/aktuelt/manusmoterprodusent2026",
+   "source": "Sørnorsk Filmsenter",
+   "country": "NO",
+   "topics": [
+    "Utveckling"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "f99f79919d71",
+   "published": "2026-11-19",
+   "title": "Sju finska dramaserier nominerade till tv-priset Kultainen Venla",
+   "summary": "Fokus, Hildur, Kylmä kausi, L/over, ikuisesti minun, Munkkivuori och Räjähdyspiste tävlar om bästa dramaserie. Finalisterna utses 9 december och galan sänds i MTV3 den 29 januari 2027.",
+   "url": "https://yle.fi/a/74-20256853",
+   "source": "Yle",
+   "country": "FI",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
   {
    "id": "eef958239130",
    "published": "2026-11-19",
@@ -59,6 +205,78 @@
    ],
    "format": "Film",
    "addedAt": "2026-11-19T07:30:00+01:00"
+  },
+  {
+   "id": "1c1f417e90f9",
+   "published": "2026-11-18",
+   "title": "Norsk actionfilm om tågrånet mot Bergensbanan får premiär i februari",
+   "summary": "Gunnbjörg Gunnarsdóttir regisserar Bergenstoget plyndret i natt efter ett manus hon skrivit med Astri Nyaas. Den första trailern är släppt och filmen har norsk biopremiär 12 februari 2027. I rollerna syns bland andra Elli Rhiannon Müller Osborne, Sjur Vatne Brean och Bjørn Sundquist.",
+   "url": "https://www.filmweb.no/filmnytt/bergenstoget-plyndret-trailer",
+   "source": "Filmweb",
+   "country": "NO",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "225de194cd47",
+   "published": "2026-11-18",
+   "title": "Amanda Kernells Brace Your Heart öppnar Tromsø Internasjonale Filmfestival",
+   "summary": "Amanda Kernells samiska drama Garrat du Váimmu / Brace Your Heart blir öppningsfilm på Tromsø Internasjonale Filmfestival 2027. Nordisk Film Production Sverige producerar och norska Forest People är samproducent. Arktisk Film Norge har investerat 1 000 000 NOK i filmen.",
+   "url": "https://arktiskfilmnorge.no/artikler/2026/brace-your-heart-apner-tromso-internasjonale-filmfestival-2027/",
+   "source": "Arktisk Film Norge",
+   "country": "NO",
+   "topics": [
+    "Festivaler & priser",
+    "Samproduktion"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "70fca45e5481",
+   "published": "2026-11-18",
+   "title": "Prime Video visar Mord i mørket med Michael Falch på nyårsdagen",
+   "summary": "Christian E. Christiansens miniserie Mord i mørket i fyra avsnitt har premiär på Prime Video den 1 januari 2027. Michael Falch och Katinka Lærke Petersen spelar huvudrollerna i den nysläppta trailern.",
+   "url": "https://kino.dk/nyheder/michael-falch-er-tilbage-i-ikonisk-rolle-se-traileren",
+   "source": "Kino.dk",
+   "country": "DK",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "924352cd9a10",
+   "published": "2026-11-18",
+   "title": "Finlands filmstiftelse ger 69 091 euro till export och spridning",
+   "summary": "Finlands filmstiftelses styrelse fattade 31 beslut i november. Kulturexport fick 45 425 euro, bland annat för internationell lansering av E, Kerro kaikille och Diivat, medan syntolkning och textning fick 21 366 euro.",
+   "url": "https://www.ses.fi/ajankohtaista/marraskuussa-tukea-kulttuurivientiin-ja-esitykseen-ja-levitykseen/",
+   "source": "Finlands filmstiftelse",
+   "country": "FI",
+   "topics": [
+    "Finansiering",
+    "Distribution"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-20T07:20:00+01:00"
+  },
+  {
+   "id": "d8d8f7c01ef5",
+   "published": "2026-11-18",
+   "title": "Andra säsongen av Familien Nerdrum har premiär på juldagen i NRK",
+   "summary": "NRK visar fem av sju avsnitt i den andra säsongen av dokumentärserien Familien Nerdrum den 25 december. De två sista avsnitten släpps i januari.",
+   "url": "https://www.filmweb.no/streamingguide/artikkel/familien-nerdrum-andre-sesong-premieredato",
+   "source": "Filmweb",
+   "country": "NO",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Dokumentär",
+   "addedAt": "2026-11-20T07:20:00+01:00"
   },
   {
    "id": "45f225615268",
@@ -220,223 +438,6 @@
    ],
    "format": "Film",
    "addedAt": "2026-11-19T07:30:00+01:00"
-  },
-  {
-   "id": "dd6e8c25311f",
-   "published": "2026-11-17",
-   "title": "MEDIA-desk Norge håller digitalt möte om EU-stöd till dataspel",
-   "summary": "Norsk filminstitutt meddelar att MEDIA-desk Norge den 9 december klockan 13.30 till 14.30 håller ett kostnadsfritt digitalt informationsmöte om Kreativa Europa MEDIA:s stöd till utveckling av dataspel och immersivt innehåll inför 2027.",
-   "url": "https://nfi.no/nyheter/media-desk-norge-infomote-om-tilskudd-til-dataspill",
-   "source": "Norsk filminstitutt",
-   "country": "NO",
-   "topics": [
-    "Finansiering",
-    "Utveckling"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-19T07:30:00+01:00"
-  },
-  {
-   "id": "1350f1b08393",
-   "published": "2026-11-17",
-   "title": "Willy Fermelin får Svenska Filminstitutets Wild Card för Poison Tree",
-   "summary": "Svenska Filminstitutet ger 2026 års Wild Card till regissören Willy Fermelin, utbildad vid Den Norske Filmskolen och Katrinebergs folkhögskola. Stödet gäller utvecklingen av hans debutlångfilm Poison Tree om en nybliven pensionär och hans döende mor.",
-   "url": "https://pressroom.filminstitutet.se/pressreleases/wild-card-till-willy-fermelin-morgondagens-filmskapare-3478152",
-   "source": "Svenska Filminstitutet, pressrum",
-   "country": "SE",
-   "topics": [
-    "Utveckling",
-    "Finansiering",
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "231f8de9b275",
-   "published": "2026-11-17",
-   "title": "Kulturutskottet stöder regeringens nya inriktning för filmpolitiken",
-   "summary": "Riksdagens kulturutskott säger ja till betänkandet Ny politisk inriktning för ett starkare filmland med färre nationella filmpolitiska mål och rätt att överklaga Svenska Filminstitutets stödbeslut från 1 januari 2027. Vänsterpartiet reserverar sig. Riksdagen debatterar 24 november och beslutar 25 november.",
-   "url": "https://www.riksdagen.se/sv/aktuellt/aktuelltnotiser/2026/nov/17/utskott-sager-ja-till-en-ny-politisk-inriktning_cmsfecb99be-6823-4564-afc4-9bccdc4c444fsv",
-   "source": "Sveriges riksdag",
-   "country": "SE",
-   "topics": [
-    "Politik & policy",
-    "Finansiering"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "2628b8a40824",
-   "published": "2026-11-17",
-   "title": "Oskar Dahlsbakken filmade Markens grøde efter väderprognosen",
-   "summary": "Rushprint intervjuar fotografen Oskar Dahlsbakken om arbetet med Hans Petter Molands Markens grøde. Teamet styrde inspelningen efter väderleken och sökte ett så naturligt bildspråk som möjligt bland branta fjällsidor.",
-   "url": "https://rushprint.no/2026/11/vi-skjot-manuset-med-utgangspunkt-i-vaeret-som-var-meldt",
-   "source": "Rushprint",
-   "country": "NO",
-   "topics": [
-    "Produktion"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "42f8068183ab",
-   "published": "2026-11-17",
-   "title": "Frelle Petersen spelar in Verdensmand i Tønder för Zentropa",
-   "summary": "Frelle Petersen har börjat spela in tragikomedin Verdensmand med Ole Caspersen, Jette Søndergaard och Peter Tygesen, producerad av Jonas Bagger på Zentropa. Det Danske Filminstitut, Den Vestdanske Filmpulje och Tønder Kommune stöder filmen, som får premiär 2028.",
-   "url": "https://filmpuljen.dk/nyheder/2026/filminstruktoer-frelle-petersen-har-startet-optagelserne-paa-sin-nye-spillefilm-verdensmand",
-   "source": "Den Vestdanske Filmpulje",
-   "country": "DK",
-   "topics": [
-    "Produktion",
-    "Finansiering"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "430a66743182",
-   "published": "2026-11-17",
-   "title": "Oslo Filmfond öppnar ansökningsportalen för 2027",
-   "summary": "Oslo Filmfond tar emot ansökningar om stöd och investering för 2027 så länge pengarna räcker. Handläggningen väntas ta sex till åtta veckor från 1 januari, och sammanslagningen till Filmregion Oslo og Viken ändrar inget för sökande ännu.",
-   "url": "https://oslofilmfond.no/soknadsportalen-for-2027-er-apen",
-   "source": "Oslo Filmfond",
-   "country": "NO",
-   "topics": [
-    "Finansiering",
-    "Politik & policy"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "6064f4726bb3",
-   "published": "2026-11-17",
-   "title": "Bara till jul når över 7,4 miljoner visningar på Netflix",
-   "summary": "Adam Pålssons regidebut Bara till jul fick enligt Netflix över 7,4 miljoner visningar under veckan efter premiären 12 november och låg tvåa på Netflix globala dagliga filmlista.",
-   "url": "https://www.moviezine.se/nyheter/svenska-bara-till-jul-gor-succe-pa-netflix-med-over-7-miljoner-tittare",
-   "source": "MovieZine",
-   "country": "SE",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "67c1557380b3",
-   "published": "2026-11-17",
-   "title": "Farzad Samsamis debutfilm Waves of Silence får världspremiär i Marrakech",
-   "summary": "Gorillafilms drama Waves of Silence tävlar i Marrakechfestivalens sektion Discovering New Voices med visning 23 november. Norsk filminstitutt har gett 7 500 000 NOK genom debutordningen Neo, och budgeten landar på 12 100 000 NOK.",
-   "url": "https://www.nfi.no/nyheter/norsk-spillefilmdebut-faar-verdenspremiere-i-marrakech",
-   "source": "Norsk filminstitutt",
-   "country": "NO",
-   "topics": [
-    "Festivaler & priser",
-    "Finansiering"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "ecb925979a53",
-   "published": "2026-11-17",
-   "title": "Fem nominerade till Producer Prisen på Ekko Shortlist Awards",
-   "summary": "Asbjørn Høgstad Kelstrup, Maja Foss Hagerup och Rosa Flindt Riis-Hansen, Penelope Bjerregaard, Ulrikke Xenia och Ane Vennize Andersen samt Valdemar Guldbrandsen tävlar om priset som Producentforeningen sponsrar. Vinnaren utses på Bremen Teater 19 november.",
-   "url": "https://ekkofilm.dk/artikler/de-nominerede-til-producer-prisen-er",
-   "source": "Ekko",
-   "country": "DK",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "1e402b54ad09",
-   "published": "2026-11-17",
-   "title": "Nordiska filmer och serier nominerade till tre europeiska priser",
-   "summary": "Fjord får fem nomineringar till European Film Awards och Woman Unknown tre. Hundarna tävlar i Rose d'Or och C21 International Drama Awards, där fyra av sex nominerade icke engelskspråkiga dramaserier är nordiska. Galan hålls 16 januari i Aten.",
-   "url": "https://nordiskfilmogtvfond.com/news/stories/several-nordic-film-and-series-featured-as-efa-rose-dor-and-c21-nominations-are-announced",
-   "source": "Nordisk Film & TV Fond",
-   "country": "NORDEN",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-17T14:50:03+01:00"
-  },
-  {
-   "id": "b792b0dd73e4",
-   "published": "2026-11-17",
-   "title": "Göteborg Film Festival avtäcker jubileumsaffischen på Hagabion 4 december",
-   "summary": "Konstnären Sara-Vide Ericson och konstnärliga ledaren Pia Lundberg visar affischen till festivalens femtionde upplaga på Kino i Hagabion fredag 4 december klockan 16. Platserna är begränsade och fördelas efter ankomst.",
-   "url": "https://goteborgfilmfestival.se/nyheter/festivalaffisch-avtacks-kino-hagabion",
-   "source": "Göteborg Film Festival",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-17T14:50:03+01:00"
-  },
-  {
-   "id": "dab2c16d3af6",
-   "published": "2026-11-17",
-   "title": "Lena Olin går in i Bio Skandias hedersstyrelse",
-   "summary": "Skådespelaren Lena Olin ansluter till hedersstyrelsen för Bio Skandia, som Stockholms filmfestival driver, tillsammans med Ethan Hawke, Stellan Skarsgård, Josef Fares och Tarik Saleh. Biografen fyller 103 år i höst.",
-   "url": "https://www.mynewsdesk.com/se/stockholms_filmfestival/pressreleases/lena-olin-invald-i-bio-skandias-hedersstyrelse-3478579",
-   "source": "Stockholms filmfestival",
-   "country": "SE",
-   "topics": [
-    "Personal & tillsättningar"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-17T07:50:07Z"
-  },
-  {
-   "id": "1e0a314616bc",
-   "published": "2026-11-16",
-   "title": "Isländska Vigdís Howser antagen till Werner Herzogs kortfilmsverkstad",
-   "summary": "Regissören och producenten Vigdís Howser från Arka Films deltar i Werner Herzogs verkstad på Azorerna 4 till 14 december. Femtio filmare arbetar i par och gör varsin ny kortfilm från manus till visning.",
-   "url": "https://www.icelandreview.com/news/vigdis-howser-werner-herzog-workshop-azores-2026",
-   "source": "Iceland Review",
-   "country": "IS",
-   "topics": [
-    "Utveckling"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "20a7d59b76d1",
-   "published": "2026-11-16",
-   "title": "May el-Toukhy bland fem nominerade till Ekkos Diversitet Prisen",
-   "summary": "Juryn har nominerat May el-Toukhy, DR-programmet Eventyr i blinde, paret Lambang och Kaspar Arianto, TV 2 Østjyllands Xor och TV 2-satsningen Ingen alder. SF Studios och FILM&TVGruppen sponsrar priset som delas ut 19 november.",
-   "url": "https://ekkofilm.dk/artikler/fem-diversitetskaempere-er-fundet",
-   "source": "Ekko",
-   "country": "DK",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-18T07:15:00+01:00"
-  },
-  {
-   "id": "267a6cc685ba",
-   "published": "2026-11-16",
-   "title": "Klapptré publicerar Margrét Örnólfsdóttirs RIFF-tal om isländsk filmkris",
-   "summary": "Manusförfattaren Margrét Örnólfsdóttir höll festivaltalet när RIFF öppnade 24 september. Klapptré återger nu talet, där hon beskriver isländsk filmproduktion som en ruin men uppmanar branschen att samlas och fira.",
-   "url": "https://klapptre.is/2026/11/16/margret-ornolfsdottir-a-nylidinni-riff-hatid-nu-thegar-heimurinn-rambar-a-barmi-einhvers-konar-hamarkssturlunar-og-sjalfstortimingar-og-vid-stondum-her-i-rjukandi-rustum-islenskrar-kvikmyndagerdar-er",
-   "source": "Klapptré",
-   "country": "IS",
-   "topics": [
-    "Politik & policy"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-18T07:15:00+01:00"
   }
  ]
 }
