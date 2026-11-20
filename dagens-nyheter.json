@@ -1,7 +1,21 @@
 {
- "generatedAt": "2026-11-20T09:08:32+01:00",
+ "generatedAt": "2026-11-20T15:08:15+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "111d4206eb0e",
+   "published": "2026-11-20",
+   "title": "Joachim Trier och Eskil Vogt får Göteborg Film Festivals nordiska hederspris",
+   "summary": "De norska filmskaparna Joachim Trier och Eskil Vogt tar emot Nordic Honorary Dragon Award 2027 vid öppningen av festivalens 50:e upplaga den 29 januari. Festivalen visar en retrospektiv och duon medverkar i ett regissörssamtal på Stora Teatern.",
+   "url": "https://goteborgfilmfestival.se/en/news/nordic-honorary-award-trier-vogt-en",
+   "source": "Göteborg Film Festival",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-20T14:49:47+01:00"
+  },
   {
    "id": "2aeedcafa37a",
    "published": "2026-11-19",
@@ -421,22 +435,6 @@
    ],
    "format": "Film",
    "addedAt": "2026-11-18T17:52:00+01:00"
-  },
-  {
-   "id": "998574c6a826",
-   "published": "2026-11-17",
-   "title": "Nya Wallander hade världspremiär i Stockholm och visas på TV4 Play+ i vår",
-   "summary": "Wallander: Steget efter med Gustaf Skarsgård hade världspremiär den 14 november på Stockholms filmfestival. Jarowskij/Yellow Bird producerar tillsammans med TV4, Film i Skåne, Ystad-Österlen Filmfond och ARD Degeto, och serien når TV4 Play+ våren 2027.",
-   "url": "https://filmiskane.se/sv/artiklar/varldspremiar-for-wallander-steget-efter-pa-stockholms-filmfestival",
-   "source": "Film i Skåne",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser",
-    "Distribution",
-    "Samproduktion"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-11-19T07:30:00+01:00"
   }
  ]
 }
