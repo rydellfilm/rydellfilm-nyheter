@@ -1,7 +1,21 @@
 {
- "generatedAt": "2026-11-20T07:08:03+01:00",
+ "generatedAt": "2026-11-20T09:08:32+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "2aeedcafa37a",
+   "published": "2026-11-19",
+   "title": "Göteborg Film Festival söker unga jurymedlemmar till Dragon Award",
+   "summary": "Göteborg Film Festival söker filmintresserade mellan 18 och 25 år till juryn för Youth Jury Dragon Award, som utser bästa film i sektionen Voyage den 1 till 4 februari 2027. Sista ansökningsdag är 4 december.",
+   "url": "https://goteborgfilmfestival.se/nyheter/ansk--youth-jury-dragonaward-",
+   "source": "Göteborg Film Festival",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-20T08:49:39+01:00"
+  },
   {
    "id": "09b2b1a85886",
    "published": "2026-11-19",
@@ -422,21 +436,6 @@
     "Samproduktion"
    ],
    "format": "Serie",
-   "addedAt": "2026-11-19T07:30:00+01:00"
-  },
-  {
-   "id": "d6354e30379a",
-   "published": "2026-11-17",
-   "title": "Nordisk lys på Cinemateket lyfter nordisk film under fyra dagar",
-   "summary": "Filmfestivalen Nordisk lys pågår 19 till 22 november 2026 på Cinemateket i Köpenhamn. Den öppnar med förhandsvisning av norska Cute och ett samtal med regissören Marlene Emilie Lyngstad, och programmet rymmer även Dag Johan Haugeruds trilogi.",
-   "url": "https://ekkofilm.dk/artikler/festival-slar-et-slag-for-nordiske-film",
-   "source": "Ekko",
-   "country": "DK",
-   "topics": [
-    "Festivaler & priser",
-    "Distribution"
-   ],
-   "format": "Film",
    "addedAt": "2026-11-19T07:30:00+01:00"
   }
  ]
