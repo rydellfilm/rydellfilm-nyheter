@@ -1,7 +1,95 @@
 {
- "generatedAt": "2026-11-20T15:08:15+01:00",
+ "generatedAt": "2026-11-21T07:07:48+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "062a986f05c4",
+   "published": "2026-11-20",
+   "title": "Tess Quatri och Mads Elsass vinner Nordic Wave med Like There Is No Tomorrow",
+   "summary": "Stockholms filmfestival gav Nordic Wave Award till Tess Quatri och Mads Elsass för långfilmsprojektet från norska Eye Eye Pictures, med efterproduktionsstöd värt 400 000 SEK. Malin Barr vann 1 KM FILM och 450 000 SEK för kortfilmen Emergency Contact.",
+   "url": "https://www.mynewsdesk.com/se/stockholms_filmfestival/pressreleases/this-years-nordic-wave-award-winners-are-tess-quatri-and-mads-elsass-3479442",
+   "source": "Stockholms filmfestival",
+   "country": "NORDEN",
+   "topics": [
+    "Festivaler & priser",
+    "Utveckling",
+    "Finansiering"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-21T07:20:00+01:00"
+  },
+  {
+   "id": "1ba478a10050",
+   "published": "2026-11-20",
+   "title": "Viaplays försenade maffiaserie Maffia har premiär den 22 november",
+   "summary": "Kriminalserien Maffia om den jugoslaviska maffian i 1990-talets Sverige når Viaplay och TV6 den 22 november. Inspelningen började för tre och ett halvt år sedan men Viaplays ekonomiska kris 2023 försenade premiären.",
+   "url": "https://www.tv4.se/artikel/tt-261120-maffia1-dd719185/viaplay-kraschen-forsenade-nya-storserien",
+   "source": "TT via TV4",
+   "country": "SE",
+   "topics": [
+    "Distribution",
+    "Produktion"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-21T07:20:00+01:00"
+  },
+  {
+   "id": "3a788d5323cb",
+   "published": "2026-11-20",
+   "title": "Finska kortfilmen Strive visas i Yle Teema och Yle Areena",
+   "summary": "Jussi Rautaniemis sciencefictionkortfilm Strive med Laura Birn och Pekka Strang finns i Yle Areena från den 21 november och sänds samma kväll i Yle Teema. Filmen har tidigare visats på Tampere Film Festival och Night Visions.",
+   "url": "https://muropaketti.com/elokuvat/elokuvauutiset/yle-areenaan-tulee-huomenna-uusi-suomalainen-scifi-elokuva-josta-tuskin-olet-kuullutkaan/",
+   "source": "Muropaketti",
+   "country": "FI",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-21T07:20:00+01:00"
+  },
+  {
+   "id": "875e18434bbd",
+   "published": "2026-11-20",
+   "title": "Nabo Film får Producer Prisen vid Ekko Shortlist Awards",
+   "summary": "Rosa Flindt Riis-Hansen och Maja Foss Hagerup på Nabo Film vann Producer Prisen den 19 november. Duon fick fyra kortfilmer klara på ett år, bland dem Robertvinnaren Korean Bloom och dokumentären Et motherfucking liv.",
+   "url": "https://www.ekkofilm.dk/artikler/man-taber-pusten-af-jeres-appetit-pa-film/",
+   "source": "Filmmagasinet Ekko",
+   "country": "DK",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-21T07:20:00+01:00"
+  },
+  {
+   "id": "e61b23042a9d",
+   "published": "2026-11-20",
+   "title": "TV 2 avskedar Ulla Pors och Dorthe Thirstrup efter skandalen kring Alle elsker Rasmus",
+   "summary": "TV 2:s vd Anne Engdal Stig Christensen har med styrelsens stöd avskedat innehållsdirektören Ulla Pors och programdirektören Dorthe Thirstrup. Serien från Drive Studios lurade komikern Rasmus Wallbridge med dold kamera i fyra månader och togs bort efter hård kritik.",
+   "url": "https://www.ekkofilm.dk/artikler/pors-og-thirstrup-faeldet-efter-tv-2-skandale/",
+   "source": "Filmmagasinet Ekko",
+   "country": "DK",
+   "topics": [
+    "Personal & tillsättningar",
+    "Politik & policy"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-21T07:20:00+01:00"
+  },
+  {
+   "id": "e7475075f1e0",
+   "published": "2026-11-20",
+   "title": "Tredje säsongen av Bara sex kommer till SVT Play",
+   "summary": "Sveriges Television släpper tredje säsongen av ungdomsdramat Bara sex på SVT Play söndagen den 22 november, med två av fem avsnitt direkt. Maria Karlsson Thörnqvist har skapat och skrivit serien.",
+   "url": "https://www.filmtopp.se/nyhet/svtplay-svt-s-tittarsucce-atervander-nu-med-ny-sasong-heta-kanslor-utlovas",
+   "source": "Filmtopp",
+   "country": "SE",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-21T07:20:00+01:00"
+  },
   {
    "id": "111d4206eb0e",
    "published": "2026-11-20",
@@ -15,6 +103,49 @@
    ],
    "format": "Film",
    "addedAt": "2026-11-20T14:49:47+01:00"
+  },
+  {
+   "id": "01c9cac7d63f",
+   "published": "2026-11-19",
+   "title": "Svenska Filminstitutet pausar handläggningen av stöd över jul och nyår",
+   "summary": "Svenska Filminstitutet handlägger inga stödansökningar mellan 18 december 2026 och 10 januari 2027. Rekvisitioner för utbetalning före nyår måste vara inne senast 7 december för produktionsstöd och 17 december för distribution, visning och internationella stöd.",
+   "url": "https://pressroom.filminstitutet.se/news/intake-och-handlaeggningstider-under-jul-och-nyaar-2026-515078",
+   "source": "Svenska Filminstitutet",
+   "country": "SE",
+   "topics": [
+    "Finansiering"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-21T07:20:00+01:00"
+  },
+  {
+   "id": "1f107dbe2759",
+   "published": "2026-11-19",
+   "title": "Paradiset er stengt hvis du drepes av en kvinne får nytt frihetspris i Tallinn",
+   "summary": "Halkawt Mustafas norsk-irakiska drama blir första vinnare av Free World Award, som Tallinn Black Nights och Odesas filmfestival delar ut med stöd från Ukrainas statliga filmbyrå. Hene Films producerar och filmen har norsk biopremiär 15 januari 2027.",
+   "url": "https://rushprint.no/2026/11/nyopprettet-pris-til-paradiset-er-stengt-hvis-du-drepes-av-en-kvinne/",
+   "source": "Rushprint",
+   "country": "NO",
+   "topics": [
+    "Festivaler & priser",
+    "Samproduktion"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-21T07:20:00+01:00"
+  },
+  {
+   "id": "6e51251e628e",
+   "published": "2026-11-19",
+   "title": "Basic Bitch Bærum får andra säsong på HBO Max i vår",
+   "summary": "HBO Max visar andra säsongen av den norska serien Basic Bitch Bærum våren 2027, med Emma Steinbakken, Sofie Wager, Ylva Thedin och Maxime Jacobsen i huvudrollerna.",
+   "url": "https://www.filmweb.no/streamingguide/artikkel/2027-sann-blir-varen-pa-hbo-max-og-tvnorge",
+   "source": "Filmweb",
+   "country": "NO",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-21T07:20:00+01:00"
   },
   {
    "id": "2aeedcafa37a",
@@ -305,136 +436,6 @@
    ],
    "format": "Dokumentär",
    "addedAt": "2026-11-20T07:20:00+01:00"
-  },
-  {
-   "id": "45f225615268",
-   "published": "2026-11-18",
-   "title": "Norska kortfilmen Sand i tissen prisas i Tallinn",
-   "summary": "Ingrid Runde Saxegaards kortfilm Sand i tissen, producerad av Stian Holt Skjelstad, vann huvudpriset för bästa spelfilm i den internationella tävlingen på PÖFF Shorts 2026 i Tallinn. Priset gör filmen kvalificerad för en Oscarsnominering.",
-   "url": "https://rushprint.no/2026/11/sand-i-tissen-tildelt-kortfilmpris-i-tallinn",
-   "source": "Rushprint",
-   "country": "NO",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-19T07:30:00+01:00"
-  },
-  {
-   "id": "8e4c11d2045d",
-   "published": "2026-11-18",
-   "title": "Sigurjón Sighvatsson fick RIFF:s hederspris för sin livsgärning",
-   "summary": "Den isländske producenten Sigurjón Sighvatsson tog emot hederspriset på Reykjavík International Film Festival 2026 vid en dubbelvisning av David Lynchs verk, 40 år efter att han var med och grundade Propaganda Films.",
-   "url": "https://klapptre.is/2026/11/18/sigurjon-sighvatsson-hlaut-heidursverdlaun-riff-fyrir-aeviframlag-sitt",
-   "source": "Klapptré",
-   "country": "IS",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-19T07:30:00+01:00"
-  },
-  {
-   "id": "9123cc3d7ef9",
-   "published": "2026-11-18",
-   "title": "Hasse Ekmans Flicka och hyacinter restaurerad i 4K för Cinemateket Play",
-   "summary": "Svenska Filminstitutet har digitalt restaurerat Hasse Ekmans film från 1950 i 4K utifrån en kopia, eftersom originalnegativet saknas. Filmen finns på Cinemateket Play från den 27 november och visas i förväg i Filmhuset den 24 november.",
-   "url": "https://pressroom.filminstitutet.se/pressreleases/inbjudan-till-foerhandsvisning-digitalt-nyrestaurerade-flicka-och-hyacinter-faar-nytt-liv-paa-cinemateket-play-3479004",
-   "source": "Svenska Filminstitutet",
-   "country": "SE",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-19T07:30:00+01:00"
-  },
-  {
-   "id": "9b883ba4b5c1",
-   "published": "2026-11-18",
-   "title": "Shudder visar trailer för finska skräckkomedin Punaista lunta",
-   "summary": "Ilja Rautsis första långfilm Punaista lunta får finsk biopremiär 20 november och når den amerikanska strömningstjänsten Shudder 11 december. Hannu-Pekka Björkman och Anni Iikkanen spelar huvudrollerna.",
-   "url": "https://episodi.fi/uutiset/vampyyripukki-nayttaa-naamansa-jenkkistriimipalvelu-julkaisi-suomalaisen-kauhuleffan-trailerin",
-   "source": "Episodi",
-   "country": "FI",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-19T07:30:00+01:00"
-  },
-  {
-   "id": "9d1a19f75ba1",
-   "published": "2026-11-18",
-   "title": "Emilie Beck kritiserar TV 2:s dokumentärserie om profeten i Bærum",
-   "summary": "Regissören och serieskaparen Emilie Beck anser i en debattartikel att TV 2:s serie om profeten i Bærum sätter sensation före etik, och hon ifrågasätter att kanalen godkände dolda inspelningar som underhållning.",
-   "url": "https://rushprint.no/2026/11/regissor-eller-sensasjonsjeger",
-   "source": "Rushprint",
-   "country": "NO",
-   "topics": [
-    "Politik & policy",
-    "Distribution"
-   ],
-   "format": "Dokumentär",
-   "addedAt": "2026-11-19T07:30:00+01:00"
-  },
-  {
-   "id": "d3a70cc5f3d7",
-   "published": "2026-11-18",
-   "title": "TV 2 försvarar dokumentärserien Kollaps – profeten i Bærum",
-   "summary": "Programredaktören Trygve Rønningen på TV 2 svarar Emilie Beck och skriver att alla påståenden i Finn-Erik Rognans serie granskades redaktionellt och att de få dolda inspelningarna behövdes för att belägga uppgifter om drogbruk.",
-   "url": "https://rushprint.no/2026/11/det-handler-ikke-om-sensasjonsjag-men-sannferdighet",
-   "source": "Rushprint",
-   "country": "NO",
-   "topics": [
-    "Politik & policy",
-    "Distribution"
-   ],
-   "format": "Dokumentär",
-   "addedAt": "2026-11-19T07:30:00+01:00"
-  },
-  {
-   "id": "f3aefe33dbc6",
-   "published": "2026-11-18",
-   "title": "Andra säsongen av Åremorden får premiär på Netflix den 27 december",
-   "summary": "Netflix har bekräftat premiärdatum för andra säsongen av Åremorden, som bygger på Viveca Stens romaner Botgöraren och Vilseledaren. Carla Sehn och Kardo Razzazi återvänder, och Simon J. Berger, Sigrid Johnson och Vilhelm Blomgren är nya i rollistan.",
-   "url": "https://www.filmtopp.se/nyhet/netflix-bekraftat-premiardatum-for-aremorden-sasong-2-pa-netflix-se-nya-bilderna",
-   "source": "Filmtopp",
-   "country": "SE",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-11-19T07:30:00+01:00"
-  },
-  {
-   "id": "efc277aa691f",
-   "published": "2026-11-18",
-   "title": "European Writers Club startar EWC 2.0 för europeiska dramaserier i Tallinn",
-   "summary": "European Writers Club och Estlands filminstitut lanserar EWC 2.0 på TV Beats i Tallinn. Plattformen tar årligen in högst åtta serieprojekt med knuten kanal, nästa omgång öppnar tidigt 2027 och Nordisk Film & TV Fond stödjer den nordiska delen.",
-   "url": "https://nordiskfilmogtvfond.com/news/stories/high-nordic-turnout-expected-as-ewc-2-0-is-launched",
-   "source": "Nordisk Film & TV Fond",
-   "country": "NORDEN",
-   "topics": [
-    "Utveckling",
-    "Samproduktion",
-    "Finansiering"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-11-18T17:52:00+01:00"
-  },
-  {
-   "id": "f1880decf39e",
-   "published": "2026-11-18",
-   "title": "Göteborg Film Festival utlyser kortfilmstävling om filmer på 50 sekunder",
-   "summary": "Inför 50-årsjubileet bjuder Göteborg Film Festival och Fujifilm in till tävlingen Forever in 50 på temat Forever Young. Filmer på högst 50 sekunder läggs upp med #foreverin50 senast 13 januari 2027 och tre finalister visas 1 februari.",
-   "url": "https://goteborgfilmfestival.se/nyheter/kortfilmstavling50-sekunder",
-   "source": "Göteborg Film Festival",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-18T17:52:00+01:00"
   }
  ]
 }
