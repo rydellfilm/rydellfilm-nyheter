@@ -1,7 +1,66 @@
 {
- "generatedAt": "2026-11-22T07:08:20+01:00",
+ "generatedAt": "2026-11-23T07:08:08+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "69f167ef6493",
+   "published": "2026-11-23",
+   "title": "Kaija Koo-filmen Kaunis rietas onnellinen toppar Disney+ i Finland",
+   "summary": "Selma Vilhunens dramafilm om sångerskan Kaija Koo, med Oora Airola i huvudrollen, gick direkt till första plats på Disney+ topp 10 i Finland under premiärhelgen. På bio lockade filmen över 134 000 besökare 2026.",
+   "url": "https://muropaketti.com/elokuvat/elokuvauutiset/suomessa-tehty-elokuva-nousi-disneyn-katsotuimmaksi-tallaista-harvemmin-nakee",
+   "source": "Muropaketti",
+   "country": "FI",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-23T07:40:00+01:00"
+  },
+  {
+   "id": "2e139f1bdfeb",
+   "published": "2026-11-22",
+   "title": "Isländskt och finländskt samproducerat projekt prisas på Industry@Tallinn",
+   "summary": "Isländsk-estniska At Your Service av Magnús Jónsson fick Pluto Consultancy Award på samproduktionsmarknaden, och tysk-estnisk-finska The Reef av Phillip Donnellon vann Just Film Best Project bland Works in Progress när Industry@Tallinn & Baltic Event delade ut 17 priser den 20 november.",
+   "url": "https://filmneweurope.com/festivals/item/128577-industry-tallinn-baltic-event-2026-revealed-its-winners",
+   "source": "FilmNewEurope",
+   "country": "NORDEN",
+   "topics": [
+    "Festivaler & priser",
+    "Samproduktion",
+    "Utveckling"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-23T07:40:00+01:00"
+  },
+  {
+   "id": "826f8be7a5ee",
+   "published": "2026-11-22",
+   "title": "Leksaksmannen spelas in utanför Trollhättan inför biopremiär hösten 2027",
+   "summary": "Jens Östberg regisserar thrillern Leksaksmannen efter manus av Per Gavatin, med Jakob Oftebro och Helena Bergström i huvudrollerna. Inspelningen pågår i höst utanför Trollhättan och biopremiären är planerad till hösten 2027.",
+   "url": "https://www.moviezine.se/nyheter/moviezine-besoker-inspelningen-av-leksaksmannen-en-svensk-thriller-gjord-for-bio",
+   "source": "MovieZine",
+   "country": "SE",
+   "topics": [
+    "Produktion"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-23T07:40:00+01:00"
+  },
+  {
+   "id": "d3096fa9a856",
+   "published": "2026-11-22",
+   "title": "TV4 Play+ visar tre nya filmer om Morden i Sandhamn i vinter",
+   "summary": "TV4 släpper tre nya Sandhamnsfilmer regisserade av Niklas Ohlson med Alexandra Rapaport och Nicolai Cleve Broch. Elodie har premiär 25 december, Luna 15 januari 2027 och Nora & Alexander 5 februari 2027 på TV4 Play+.",
+   "url": "https://www.moviezine.se/nyheter/morden-i-sandhamn-atervander-med-3-nya-filmer-i-vinter-brollop-och-mord-vantar",
+   "source": "MovieZine",
+   "country": "SE",
+   "topics": [
+    "Distribution",
+    "Produktion"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-23T07:40:00+01:00"
+  },
   {
    "id": "b211e9813722",
    "published": "2026-11-22",
@@ -380,64 +439,6 @@
     "Festivaler & priser"
    ],
    "format": "Film",
-   "addedAt": "2026-11-20T07:20:00+01:00"
-  },
-  {
-   "id": "cc1740251da6",
-   "published": "2026-11-19",
-   "title": "May el-Toukhy får mångfaldspriset vid Ekko Shortlist Awards",
-   "summary": "Regissören May el-Toukhy, vars Kvinde ukendt vann Guldlejonet i Venedig, tog emot Diversitet Prisen vid Ekko Shortlist Awards 2026. Diêm Camille delade ut priset.",
-   "url": "https://www.ekkofilm.dk/artikler/hos-dig-ma-kvinder-gerne-vaere-fejlbarlige/",
-   "source": "Ekko",
-   "country": "DK",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-20T07:20:00+01:00"
-  },
-  {
-   "id": "d7ad2f8f5ebd",
-   "published": "2026-11-19",
-   "title": "Christian Fandango gestaltar Peer Gynt i Per Flys nutidsversion",
-   "summary": "Per Fly regisserar Gynt. I'm Not Like You med en budget på närmare 100 miljoner kronor. Christian Fandango, Pernilla August, Gina Gørvell och Ulrich Thomsen medverkar. Inspelningen i Kroatien är klar och fortsätter i Göteborg. Scanbox Entertainment har biopremiär julen 2027.",
-   "url": "https://www.moviezine.se/nyheter/christian-fandango-spelar-peer-gynt-i-svensk-storfilm-for-100-miljoner-kronor",
-   "source": "MovieZine",
-   "country": "SE",
-   "topics": [
-    "Produktion",
-    "Distribution",
-    "Finansiering"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-20T07:20:00+01:00"
-  },
-  {
-   "id": "daad47b0fd70",
-   "published": "2026-11-19",
-   "title": "Fem manusförfattare av barnfilm möter producenter i Oslo",
-   "summary": "Sørnorsk Filmsenter bjuder in till Manus møter produsent den 27 november i Filmens Hus i Oslo. Fem manusförfattare presenterar nya barnfilmsmanus för sju producenter. Evenemanget är gratis och har stöd från Norsk filminstitutt.",
-   "url": "https://www.sornorskfilm.no/aktuelt/manusmoterprodusent2026",
-   "source": "Sørnorsk Filmsenter",
-   "country": "NO",
-   "topics": [
-    "Utveckling"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-20T07:20:00+01:00"
-  },
-  {
-   "id": "f99f79919d71",
-   "published": "2026-11-19",
-   "title": "Sju finska dramaserier nominerade till tv-priset Kultainen Venla",
-   "summary": "Fokus, Hildur, Kylmä kausi, L/over, ikuisesti minun, Munkkivuori och Räjähdyspiste tävlar om bästa dramaserie. Finalisterna utses 9 december och galan sänds i MTV3 den 29 januari 2027.",
-   "url": "https://yle.fi/a/74-20256853",
-   "source": "Yle",
-   "country": "FI",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Serie",
    "addedAt": "2026-11-20T07:20:00+01:00"
   }
  ]
