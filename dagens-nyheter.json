@@ -1,7 +1,23 @@
 {
- "generatedAt": "2026-11-23T07:08:08+01:00",
+ "generatedAt": "2026-11-23T15:08:21+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "5677739ea8e9",
+   "published": "2026-11-23",
+   "title": "Tess Quatris Gran Canariafilm vinner Nordic Wave på Stockholms filmfestival",
+   "summary": "Nordisk Film & TV Fond sammanfattar Stockholms filmfestival: Tess Quatris Like There Is No Tomorrow, producerad av Eye Eye Pictures, vann Nordic Wave. Filmen har cirka 1,2 miljoner euro i bekräftad finansiering och ska spelas in om ungefär ett år.",
+   "url": "https://nordiskfilmogtvfond.com/news/stories/stockholm-spotlights-nordic-talent-as-tess-quatri-takes-nordic-wave-prize",
+   "source": "Nordisk Film & TV Fond",
+   "country": "NORDEN",
+   "topics": [
+    "Festivaler & priser",
+    "Finansiering",
+    "Utveckling"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-23T14:55:00+01:00"
+  },
   {
    "id": "69f167ef6493",
    "published": "2026-11-23",
@@ -425,20 +441,6 @@
     "Finansiering"
    ],
    "format": "Bransch",
-   "addedAt": "2026-11-20T07:20:00+01:00"
-  },
-  {
-   "id": "aae4355b9a1e",
-   "published": "2026-11-19",
-   "title": "Nonni Ardal Hammarström får TV4 Rising Star Award 2026",
-   "summary": "Stockholms filmfestival delade ut TV4 Rising Star Award till Nonni Ardal Hammarström vid prisceremonin på Soho House i Stockholm. Han spelar en av huvudrollerna i Alex Schulmans Arkipelag. Bland de nominerade fanns Noel Flike, Segen Tesfai och Wilma Lidén.",
-   "url": "https://www.moviezine.se/nyheter/nonni-ardal-hammarstrom-tilldelas-2026-ars-rising-star-award",
-   "source": "MovieZine",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
    "addedAt": "2026-11-20T07:20:00+01:00"
   }
  ]
