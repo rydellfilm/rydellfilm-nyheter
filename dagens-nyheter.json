@@ -1,7 +1,36 @@
 {
- "generatedAt": "2026-11-23T15:08:21+01:00",
+ "generatedAt": "2026-11-24T07:08:25+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "2253f31300d9",
+   "published": "2026-11-23",
+   "title": "Guldbaggenomineringarna presenteras 15 december och galan hålls 25 januari",
+   "summary": "Svenska Filminstitutet offentliggör nomineringarna till den 62:a Guldbaggegalan den 15 december i Filmhuset. Galan sänds från Cirkus den 25 januari 2027, och vårens svenska premiärer visas upp för bransch och press den 27 januari tillsammans med Film&TV-Producenterna.",
+   "url": "https://www.mynewsdesk.com/se/svenska-filminstitutet/pressreleases/viktiga-datum-foer-guldbaggen-och-vaarens-svenska-filmpremiaerer-3479514",
+   "source": "Svenska Filminstitutet",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser",
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-24T07:30:00+01:00"
+  },
+  {
+   "id": "8ef9f8b0b562",
+   "published": "2026-11-23",
+   "title": "Nefise Özkal Lorentzen försvarar dokumentären Dette er ikke et eple",
+   "summary": "Regissören Nefise Özkal Lorentzen säger till Rushprint att hennes dokumentär om bröderna Reda och Yahya inte predikar förlåtelse. Filmen, producerad av Ola K. Hunnes, hade biopremiär 6 november efter omkring 30 förhandsvisningar, bland annat i Stortinget.",
+   "url": "https://rushprint.no/2026/11/dette-er-ikke-tilgivelsespropaganda/",
+   "source": "Rushprint",
+   "country": "NO",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Dokumentär",
+   "addedAt": "2026-11-24T07:30:00+01:00"
+  },
   {
    "id": "5677739ea8e9",
    "published": "2026-11-23",
@@ -31,6 +60,20 @@
    ],
    "format": "Film",
    "addedAt": "2026-11-23T07:40:00+01:00"
+  },
+  {
+   "id": "fd9c6e859524",
+   "published": "2026-11-22",
+   "title": "Reisen til julestjernen fyller 50 år i nyrestaurerad version",
+   "summary": "Den norska julklassikern Reisen til julestjernen från 1976 har restaurerats inför 50-årsjubileet. Jubileumsvisning sker på Klingenberg kino i Oslo den 29 november, och NRK visar filmen från julafton till 7 februari.",
+   "url": "https://www.moviezine.no/nyheter/den-norske-juleklassikeren-fyller-50-ar-plutselig-er-folk-barn-igjen",
+   "source": "MovieZine Norge",
+   "country": "NO",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-24T07:30:00+01:00"
   },
   {
    "id": "2e139f1bdfeb",
@@ -397,50 +440,6 @@
     "Utveckling"
    ],
    "format": "Dokumentär",
-   "addedAt": "2026-11-20T07:20:00+01:00"
-  },
-  {
-   "id": "55d57885a69a",
-   "published": "2026-11-19",
-   "title": "Dokumentärprojekt om Palestina vinner pitchpriset på Movies on War",
-   "summary": "Julie Lunde Lillesæter och Siri Nerbø vann pitchtävlingen på Movies on War i Elverum med projektet 24/7 for Palestina. Priset är på 100 000 NOK och delas ut med stöd från Sparebank1 Østlandet. Juryn hedrade även Knus krigsmaskinen.",
-   "url": "https://rushprint.no/2026/11/movies-on-war-pitcheprisen-til-prosjekt-om-palestina/",
-   "source": "Rushprint",
-   "country": "NO",
-   "topics": [
-    "Festivaler & priser",
-    "Utveckling"
-   ],
-   "format": "Dokumentär",
-   "addedAt": "2026-11-20T07:20:00+01:00"
-  },
-  {
-   "id": "94fc87e03ccb",
-   "published": "2026-11-19",
-   "title": "Heartbreak Hotel vinner huvudpriset vid Ekko Shortlist Awards",
-   "summary": "Kathrine Skibsteds kortfilm Heartbreak Hotel fick Shortlist Prisen på 25 000 DKK i Bremen Teater. Rødder av Sabrina Ferguen vann tre priser, bland dem bästa fiktion, och totalt belönades elva filmer.",
-   "url": "https://www.ekkofilm.dk/artikler/reality-drama-sejrer-ved-ekko-shortlist-awards-2026/",
-   "source": "Ekko",
-   "country": "DK",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-20T07:20:00+01:00"
-  },
-  {
-   "id": "a44285293b52",
-   "published": "2026-11-19",
-   "title": "Kulturskolornas filmlärare samlades i Helsingborg när statsbidraget försvinner",
-   "summary": "Över 80 deltagare från 34 kommuner deltog i Kunskapsdagarna Film i Kulturskolan på Dunkers kulturhus 12 till 13 november. Där kom beskedet att det statliga utvecklingsbidraget till kulturskolan på 100 miljoner kronor stryks från 2027. Film i Skåne var en av arrangörerna.",
-   "url": "https://filmiskane.se/sv/artiklar/over-80-deltagare-fran-sodra-sverige-mottes-i-helsingborg-i-ett-samarrangemang-med-film-i-skane",
-   "source": "Film i Skåne",
-   "country": "SE",
-   "topics": [
-    "Politik & policy",
-    "Finansiering"
-   ],
-   "format": "Bransch",
    "addedAt": "2026-11-20T07:20:00+01:00"
   }
  ]
