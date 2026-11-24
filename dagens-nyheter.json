@@ -1,7 +1,36 @@
 {
- "generatedAt": "2026-11-24T12:08:00+01:00",
+ "generatedAt": "2026-11-24T15:08:37+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "1306bdfd8cf1",
+   "published": "2026-11-24",
+   "title": "Danska filmer och producenten Piv Bernth prisas i Tallinn",
+   "summary": "Nagieb Khaja vann bästa regi i debuttävlingen på Tallinn Black Nights för Løvehjerte, och Kaspar Astrup Schröders Myanmar mareridt vann dokumentärtävlingen. TV Beats gav Piv Bernth ett hederspris för hennes insatser för europeiskt tv-drama.",
+   "url": "https://nordiskfilmogtvfond.com/news/stories/tallinn-2026-danish-wins-underscore-the-value-of-backing-distinctive-nordic-voices",
+   "source": "Nordisk Film & TV Fond",
+   "country": "DK",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-24T14:50:00+01:00"
+  },
+  {
+   "id": "b6d9cca9ee52",
+   "published": "2026-11-24",
+   "title": "Nordiska kortfilmer och Forumprojekt syns på IDFA 2026",
+   "summary": "Inga nordiska långfilmer tävlade på IDFA i Amsterdam. Svenska Brytbussen och finska PICNIC tävlade bland kortfilmerna, och danska My Rebel Heart och Dr. Hedgehog samt finska This Body is My Final Address presenterades på IDFA Forum.",
+   "url": "https://nordiskfilmogtvfond.com/news/stories/nordic-documentaries-at-idfa-2026",
+   "source": "Nordisk Film & TV Fond",
+   "country": "NORDEN",
+   "topics": [
+    "Festivaler & priser",
+    "Utveckling"
+   ],
+   "format": "Dokumentär",
+   "addedAt": "2026-11-24T14:50:00+01:00"
+  },
   {
    "id": "2229dcffafc8",
    "published": "2026-11-23",
@@ -412,35 +441,6 @@
    ],
    "format": "Serie",
    "addedAt": "2026-11-21T07:20:00+01:00"
-  },
-  {
-   "id": "2aeedcafa37a",
-   "published": "2026-11-19",
-   "title": "Göteborg Film Festival söker unga jurymedlemmar till Dragon Award",
-   "summary": "Göteborg Film Festival söker filmintresserade mellan 18 och 25 år till juryn för Youth Jury Dragon Award, som utser bästa film i sektionen Voyage den 1 till 4 februari 2027. Sista ansökningsdag är 4 december.",
-   "url": "https://goteborgfilmfestival.se/nyheter/ansk--youth-jury-dragonaward-",
-   "source": "Göteborg Film Festival",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-20T08:49:39+01:00"
-  },
-  {
-   "id": "09b2b1a85886",
-   "published": "2026-11-19",
-   "title": "SkyShowtime läggs ned i slutet av 2027 och vd:n lämnar",
-   "summary": "Ägarna Comcast och det Skydanceägda Paramount avvecklar strömningstjänsten SkyShowtime mot slutet av 2027. Tjänsten finns i 22 europeiska marknader, däribland Norden, och har beställt egna serier i bland annat Sverige, och vd Monty Sarhan lämnar bolaget.",
-   "url": "https://www.c21media.net/news/skyshowtime-to-be-shuttered-in-2027-ceo-monty-sarhan-steps-down/",
-   "source": "C21Media",
-   "country": "NORDEN",
-   "topics": [
-    "Distribution",
-    "Personal & tillsättningar"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-20T07:20:00+01:00"
   }
  ]
 }
