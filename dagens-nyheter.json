@@ -1,7 +1,22 @@
 {
- "generatedAt": "2026-11-24T07:08:25+01:00",
+ "generatedAt": "2026-11-24T12:08:00+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "2229dcffafc8",
+   "published": "2026-11-23",
+   "title": "Club Kid vinner publikens pris på Stockholms filmfestival",
+   "summary": "Jordan Firstmans debutfilm Club Kid vann Audience Award på Stockholms filmfestival, som pågick 11 till 22 november och fick sin största publik sedan 2018. Nordisk Film har svensk biopremiär i januari 2027.",
+   "url": "https://www.mynewsdesk.com/se/stockholms_filmfestival/pressreleases/stockholms-filmfestivals-audience-award-2026-gaar-till-club-kid-3481391",
+   "source": "Stockholms filmfestival",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser",
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-24T11:50:08+01:00"
+  },
   {
    "id": "2253f31300d9",
    "published": "2026-11-23",
@@ -425,21 +440,6 @@
     "Personal & tillsättningar"
    ],
    "format": "Bransch",
-   "addedAt": "2026-11-20T07:20:00+01:00"
-  },
-  {
-   "id": "22be41990b4c",
-   "published": "2026-11-19",
-   "title": "Fem nordnorska dokumentärprojekt pitchades på IDFA i Amsterdam",
-   "summary": "Arktisk Film Norge presenterade fem dokumentärprojekt i Arctic Showcase på IDFA, bland dem Ballad of the North, Arctic Blue och The Great Seagull Film. Projekten kommer från bolag som Kino Jacobsen, Folk Film och UpNorth Film.",
-   "url": "https://arktiskfilmnorge.no/artikler/2026/arktisk-film-norge-med-fem-prosjekter-pa-idfa-2026/",
-   "source": "Arktisk Film Norge",
-   "country": "NO",
-   "topics": [
-    "Festivaler & priser",
-    "Utveckling"
-   ],
-   "format": "Dokumentär",
    "addedAt": "2026-11-20T07:20:00+01:00"
   }
  ]
