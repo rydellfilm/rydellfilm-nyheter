@@ -1,7 +1,134 @@
 {
- "generatedAt": "2026-11-24T15:08:37+01:00",
+ "generatedAt": "2026-11-25T07:08:37+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "8e536b496b82",
+   "published": "2026-11-25",
+   "title": "Riksdagen fattar beslut om regeringens nya filmpolitik",
+   "summary": "Kulturutskottets betänkande 2026/27:KrU3 om nya mål för filmpolitiken står på riksdagens beslutslista 25 november klockan 16. Utskottet föreslår bifall till propositionen, medan Vänsterpartiet och Miljöpartiet har fyra reservationer.",
+   "url": "https://www.riksdagen.se/sv/aktuellt/kalendersida/kalenderhandelse/beslut/2026/nov/25/beslut_rdhec120261125vo/",
+   "source": "Sveriges riksdag",
+   "country": "SE",
+   "topics": [
+    "Politik & policy"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-25T07:00:00+01:00"
+  },
+  {
+   "id": "016bc925c4b0",
+   "published": "2026-11-24",
+   "title": "Finsk version av Våra värsta år spelas in i januari",
+   "summary": "Mediawan Finland gör en finsk version av amerikanska komediserien Pulmuset för Nelonen Media med Joonas Nordman och Niina Lahtinen i huvudrollerna. Inspelningen sker inför publik i Tammerforsregionen och serien har premiär på Ruutu våren 2027.",
+   "url": "https://sttinfo.fi/tiedote/72512913/ikonisesta-pulmuset-sarjasta-suomalainen-versio-paarooleissa-joonas-nordman-ja-niina-lahtinen?lang=fi",
+   "source": "Nelonen Media (STT Info)",
+   "country": "FI",
+   "topics": [
+    "Produktion"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-25T07:00:00+01:00"
+  },
+  {
+   "id": "19860381d201",
+   "published": "2026-11-24",
+   "title": "Filmregion Oslo og Viken söker filmkonsulent för fyra år",
+   "summary": "Det nya bolaget Filmregion Oslo og Viken, som Viken filmsenter, Oslo Filmfond och Mediefabrikken bildar 1 januari 2027, söker en filmkonsulent för fiktion. Tjänsten gäller fyra år på heltid med start 1 april 2027 och ansökan senast 22 december 2026.",
+   "url": "https://vikenfilmsenter.no/filmregion-oslo-og-viken-soker-filmkonsulent",
+   "source": "Viken filmsenter",
+   "country": "NO",
+   "topics": [
+    "Personal & tillsättningar"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-25T07:00:00+01:00"
+  },
+  {
+   "id": "2ef2881331fc",
+   "published": "2026-11-24",
+   "title": "Felix Herngren får mörk roll i andra säsongen av Hundarna",
+   "summary": "Felix Herngren spelar en man anklagad för grovt brott i andra säsongen av SVT:s Hundarna, som nu spelas in i Göteborg. Susanne Thorsson och Lisa Linnertorp regisserar de åtta avsnitten, som får premiär våren 2027.",
+   "url": "https://moviezine.se/nyheter/glom-solsidan-nu-vantar-en-mork-roll-for-felix-herngren",
+   "source": "MovieZine",
+   "country": "SE",
+   "topics": [
+    "Produktion"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-25T07:00:00+01:00"
+  },
+  {
+   "id": "32bee5b34b47",
+   "published": "2026-11-24",
+   "title": "Nelonen Media visar familjekomedin Kyllä isä osaa Espanjassa för pressen",
+   "summary": "Nelonen Media distribuerar Lauri Nurkses komedi Kyllä isä osaa Espanjassa, skriven av Pekka Lepikkö, som har biopremiär 25 december 2026. Pressvisningar hålls i Helsingfors 1 december och i Tammerfors 10 december.",
+   "url": "https://sttinfo.fi/tiedote/72527425/kutsu-kylla-isa-osaa-espanjassa-elokuvan-lehdistotilaisuudet-helsingissa-112-ja-tampereella-1012-kriitikko-ja-lehdistonaytokset-helsingissa-ja-tampereella?lang=fi",
+   "source": "Nelonen Media (STT Info)",
+   "country": "FI",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-25T07:00:00+01:00"
+  },
+  {
+   "id": "366eb1fd7785",
+   "published": "2026-11-24",
+   "title": "Maffia ger Viaplay rekordstart för en ny kriminalserie",
+   "summary": "Enligt Viaplay blev premiäravsnittet av Maffia det mest sedda någonsin för en första säsong av en kriminalserie på tjänsten. Serien har sex avsnitt och visas också i TV6.",
+   "url": "https://moviezine.se/nyheter/maffia-slar-tittarrekord-pa-viaplay-hostens-basta-svenska-tv-serie",
+   "source": "MovieZine",
+   "country": "SE",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-25T07:00:00+01:00"
+  },
+  {
+   "id": "c6224b7a1ccd",
+   "published": "2026-11-24",
+   "title": "Scen & Film delade ut stipendier till skådespelare i Filmhuset",
+   "summary": "Scen & Film delade ut stipendier ur ett tjugotal fonder vid en kväll i Filmhuset i Stockholm. Bland mottagarna finns Anneli Martini, Henrik Dorsin och Ann Westin samt teknikerstipendiet till Ulf Ökvist.",
+   "url": "https://scenochfilm.se/stipendier-till-framstaende-kulturskapare",
+   "source": "Scen & Film",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-25T07:00:00+01:00"
+  },
+  {
+   "id": "d01e8c971aef",
+   "published": "2026-11-24",
+   "title": "Ung producentpraktikant vill att branschen satsar på AI-utbildning",
+   "summary": "Nicklas Fredelund, producentpraktikant hos Zentropa, menar i en debattartikel att danska filmbranschens AI-samtal domineras av rädsla. Han uppmanar producenter, organisationer och utbildningar att finansiera kunskap och verktyg för unga filmare.",
+   "url": "https://ekkofilm.dk/artikler/jeres-frygt-bliver-vores-generations-problem",
+   "source": "Filmmagasinet Ekko",
+   "country": "DK",
+   "topics": [
+    "Politik & policy",
+    "Avtal & arbetsvillkor"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-25T07:00:00+01:00"
+  },
+  {
+   "id": "d5d0e7346157",
+   "published": "2026-11-24",
+   "title": "Film Stockholm visar SVT:s julkalender i förväg på fem biografer",
+   "summary": "Film Stockholm har samproducerat Den ofrivillige tomten och ordnar förhandsvisningar 28 och 29 november på fem biografer i Stockholms län, bland annat Möja och Hallunda. Serien har premiär i SVT 1 december.",
+   "url": "https://filmstockholm.se/?post_type=post&p=27799",
+   "source": "Film Stockholm",
+   "country": "SE",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-25T07:00:00+01:00"
+  },
   {
    "id": "1306bdfd8cf1",
    "published": "2026-11-24",
@@ -30,6 +157,20 @@
    ],
    "format": "Dokumentär",
    "addedAt": "2026-11-24T14:50:00+01:00"
+  },
+  {
+   "id": "ccdb5850c6b0",
+   "published": "2026-11-23",
+   "title": "Lapin sota har passerat 314 000 biobesökare i Finland",
+   "summary": "Finlands filmstiftelses helglista visar att Lapin sota låg tvåa med 14 991 besökare och totalt 314 044. Julkomedin Punaista lunta, Ilja Rautsis debut som långfilmsregissör, gick in på åttonde plats med 2 025 besökare.",
+   "url": "https://ses.fi/ajankohtaista/top-20-nalkapeli-elonkorjuun-sarastus-avasi-listakarjessa",
+   "source": "Finlands filmstiftelse",
+   "country": "FI",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-25T07:00:00+01:00"
   },
   {
    "id": "2229dcffafc8",
@@ -296,151 +437,6 @@
    ],
    "format": "Film",
    "addedAt": "2026-11-22T07:45:00+01:00"
-  },
-  {
-   "id": "062a986f05c4",
-   "published": "2026-11-20",
-   "title": "Tess Quatri och Mads Elsass vinner Nordic Wave med Like There Is No Tomorrow",
-   "summary": "Stockholms filmfestival gav Nordic Wave Award till Tess Quatri och Mads Elsass för långfilmsprojektet från norska Eye Eye Pictures, med efterproduktionsstöd värt 400 000 SEK. Malin Barr vann 1 KM FILM och 450 000 SEK för kortfilmen Emergency Contact.",
-   "url": "https://www.mynewsdesk.com/se/stockholms_filmfestival/pressreleases/this-years-nordic-wave-award-winners-are-tess-quatri-and-mads-elsass-3479442",
-   "source": "Stockholms filmfestival",
-   "country": "NORDEN",
-   "topics": [
-    "Festivaler & priser",
-    "Utveckling",
-    "Finansiering"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-21T07:20:00+01:00"
-  },
-  {
-   "id": "1ba478a10050",
-   "published": "2026-11-20",
-   "title": "Viaplays försenade maffiaserie Maffia har premiär den 22 november",
-   "summary": "Kriminalserien Maffia om den jugoslaviska maffian i 1990-talets Sverige når Viaplay och TV6 den 22 november. Inspelningen började för tre och ett halvt år sedan men Viaplays ekonomiska kris 2023 försenade premiären.",
-   "url": "https://www.tv4.se/artikel/tt-261120-maffia1-dd719185/viaplay-kraschen-forsenade-nya-storserien",
-   "source": "TT via TV4",
-   "country": "SE",
-   "topics": [
-    "Distribution",
-    "Produktion"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-11-21T07:20:00+01:00"
-  },
-  {
-   "id": "3a788d5323cb",
-   "published": "2026-11-20",
-   "title": "Finska kortfilmen Strive visas i Yle Teema och Yle Areena",
-   "summary": "Jussi Rautaniemis sciencefictionkortfilm Strive med Laura Birn och Pekka Strang finns i Yle Areena från den 21 november och sänds samma kväll i Yle Teema. Filmen har tidigare visats på Tampere Film Festival och Night Visions.",
-   "url": "https://muropaketti.com/elokuvat/elokuvauutiset/yle-areenaan-tulee-huomenna-uusi-suomalainen-scifi-elokuva-josta-tuskin-olet-kuullutkaan/",
-   "source": "Muropaketti",
-   "country": "FI",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-21T07:20:00+01:00"
-  },
-  {
-   "id": "875e18434bbd",
-   "published": "2026-11-20",
-   "title": "Nabo Film får Producer Prisen vid Ekko Shortlist Awards",
-   "summary": "Rosa Flindt Riis-Hansen och Maja Foss Hagerup på Nabo Film vann Producer Prisen den 19 november. Duon fick fyra kortfilmer klara på ett år, bland dem Robertvinnaren Korean Bloom och dokumentären Et motherfucking liv.",
-   "url": "https://www.ekkofilm.dk/artikler/man-taber-pusten-af-jeres-appetit-pa-film/",
-   "source": "Filmmagasinet Ekko",
-   "country": "DK",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-21T07:20:00+01:00"
-  },
-  {
-   "id": "e61b23042a9d",
-   "published": "2026-11-20",
-   "title": "TV 2 avskedar Ulla Pors och Dorthe Thirstrup efter skandalen kring Alle elsker Rasmus",
-   "summary": "TV 2:s vd Anne Engdal Stig Christensen har med styrelsens stöd avskedat innehållsdirektören Ulla Pors och programdirektören Dorthe Thirstrup. Serien från Drive Studios lurade komikern Rasmus Wallbridge med dold kamera i fyra månader och togs bort efter hård kritik.",
-   "url": "https://www.ekkofilm.dk/artikler/pors-og-thirstrup-faeldet-efter-tv-2-skandale/",
-   "source": "Filmmagasinet Ekko",
-   "country": "DK",
-   "topics": [
-    "Personal & tillsättningar",
-    "Politik & policy"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-21T07:20:00+01:00"
-  },
-  {
-   "id": "e7475075f1e0",
-   "published": "2026-11-20",
-   "title": "Tredje säsongen av Bara sex kommer till SVT Play",
-   "summary": "Sveriges Television släpper tredje säsongen av ungdomsdramat Bara sex på SVT Play söndagen den 22 november, med två av fem avsnitt direkt. Maria Karlsson Thörnqvist har skapat och skrivit serien.",
-   "url": "https://www.filmtopp.se/nyhet/svtplay-svt-s-tittarsucce-atervander-nu-med-ny-sasong-heta-kanslor-utlovas",
-   "source": "Filmtopp",
-   "country": "SE",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-11-21T07:20:00+01:00"
-  },
-  {
-   "id": "111d4206eb0e",
-   "published": "2026-11-20",
-   "title": "Joachim Trier och Eskil Vogt får Göteborg Film Festivals nordiska hederspris",
-   "summary": "De norska filmskaparna Joachim Trier och Eskil Vogt tar emot Nordic Honorary Dragon Award 2027 vid öppningen av festivalens 50:e upplaga den 29 januari. Festivalen visar en retrospektiv och duon medverkar i ett regissörssamtal på Stora Teatern.",
-   "url": "https://goteborgfilmfestival.se/en/news/nordic-honorary-award-trier-vogt-en",
-   "source": "Göteborg Film Festival",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-20T14:49:47+01:00"
-  },
-  {
-   "id": "01c9cac7d63f",
-   "published": "2026-11-19",
-   "title": "Svenska Filminstitutet pausar handläggningen av stöd över jul och nyår",
-   "summary": "Svenska Filminstitutet handlägger inga stödansökningar mellan 18 december 2026 och 10 januari 2027. Rekvisitioner för utbetalning före nyår måste vara inne senast 7 december för produktionsstöd och 17 december för distribution, visning och internationella stöd.",
-   "url": "https://pressroom.filminstitutet.se/news/intake-och-handlaeggningstider-under-jul-och-nyaar-2026-515078",
-   "source": "Svenska Filminstitutet",
-   "country": "SE",
-   "topics": [
-    "Finansiering"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-21T07:20:00+01:00"
-  },
-  {
-   "id": "1f107dbe2759",
-   "published": "2026-11-19",
-   "title": "Paradiset er stengt hvis du drepes av en kvinne får nytt frihetspris i Tallinn",
-   "summary": "Halkawt Mustafas norsk-irakiska drama blir första vinnare av Free World Award, som Tallinn Black Nights och Odesas filmfestival delar ut med stöd från Ukrainas statliga filmbyrå. Hene Films producerar och filmen har norsk biopremiär 15 januari 2027.",
-   "url": "https://rushprint.no/2026/11/nyopprettet-pris-til-paradiset-er-stengt-hvis-du-drepes-av-en-kvinne/",
-   "source": "Rushprint",
-   "country": "NO",
-   "topics": [
-    "Festivaler & priser",
-    "Samproduktion"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-21T07:20:00+01:00"
-  },
-  {
-   "id": "6e51251e628e",
-   "published": "2026-11-19",
-   "title": "Basic Bitch Bærum får andra säsong på HBO Max i vår",
-   "summary": "HBO Max visar andra säsongen av den norska serien Basic Bitch Bærum våren 2027, med Emma Steinbakken, Sofie Wager, Ylva Thedin och Maxime Jacobsen i huvudrollerna.",
-   "url": "https://www.filmweb.no/streamingguide/artikkel/2027-sann-blir-varen-pa-hbo-max-og-tvnorge",
-   "source": "Filmweb",
-   "country": "NO",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-11-21T07:20:00+01:00"
   }
  ]
 }
