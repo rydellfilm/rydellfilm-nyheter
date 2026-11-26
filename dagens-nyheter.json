@@ -1,7 +1,37 @@
 {
- "generatedAt": "2026-11-26T07:08:47+01:00",
+ "generatedAt": "2026-11-26T15:08:14+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "dac095da3727",
+   "published": "2026-11-26",
+   "title": "Finland inför investeringsplikt på fem procent för strömningstjänster",
+   "summary": "Finlands riksdag har beslutat att strömningstjänster från 1 januari 2027 ska investera motsvarande fem procent av sina finska intäkter i inhemsk produktion. Regeringen beräknar att ordningen ger omkring 14 miljoner euro per år.",
+   "url": "https://nordiskfilmogtvfond.com/news/stories/finland-adopts-5-streaming-contribution-scheme",
+   "source": "Nordisk Film & TV Fond",
+   "country": "FI",
+   "topics": [
+    "Finansiering",
+    "Politik & policy"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-26T14:50:00+01:00"
+  },
+  {
+   "id": "57c22aef65b5",
+   "published": "2026-11-25",
+   "title": "Göteborg Film Festival startar poddserie om kulturvärde i tv-drama",
+   "summary": "Göteborg Film Festival lanserar Nostradamus Talks, tre poddavsnitt med EFM Industry Insights och stöd från Eurimages. Första avsnittet gästas av Marianne Furevold-Boland från NRK, andra avsnittet kommer 3 december och det sista 10 december.",
+   "url": "https://goteborgfilmfestival.se/en/news/introducing-nostradamus-talks",
+   "source": "Göteborg Film Festival",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser",
+    "Utveckling"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-26T14:50:00+01:00"
+  },
   {
    "id": "003fc93ff405",
    "published": "2026-11-25",
@@ -403,36 +433,6 @@
    ],
    "format": "Dokumentär",
    "addedAt": "2026-11-24T07:30:00+01:00"
-  },
-  {
-   "id": "5677739ea8e9",
-   "published": "2026-11-23",
-   "title": "Tess Quatris Gran Canariafilm vinner Nordic Wave på Stockholms filmfestival",
-   "summary": "Nordisk Film & TV Fond sammanfattar Stockholms filmfestival: Tess Quatris Like There Is No Tomorrow, producerad av Eye Eye Pictures, vann Nordic Wave. Filmen har cirka 1,2 miljoner euro i bekräftad finansiering och ska spelas in om ungefär ett år.",
-   "url": "https://nordiskfilmogtvfond.com/news/stories/stockholm-spotlights-nordic-talent-as-tess-quatri-takes-nordic-wave-prize",
-   "source": "Nordisk Film & TV Fond",
-   "country": "NORDEN",
-   "topics": [
-    "Festivaler & priser",
-    "Finansiering",
-    "Utveckling"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-23T14:55:00+01:00"
-  },
-  {
-   "id": "69f167ef6493",
-   "published": "2026-11-23",
-   "title": "Kaija Koo-filmen Kaunis rietas onnellinen toppar Disney+ i Finland",
-   "summary": "Selma Vilhunens dramafilm om sångerskan Kaija Koo, med Oora Airola i huvudrollen, gick direkt till första plats på Disney+ topp 10 i Finland under premiärhelgen. På bio lockade filmen över 134 000 besökare 2026.",
-   "url": "https://muropaketti.com/elokuvat/elokuvauutiset/suomessa-tehty-elokuva-nousi-disneyn-katsotuimmaksi-tallaista-harvemmin-nakee",
-   "source": "Muropaketti",
-   "country": "FI",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-23T07:40:00+01:00"
   }
  ]
 }
