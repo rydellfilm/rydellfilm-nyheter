@@ -1,7 +1,108 @@
 {
- "generatedAt": "2026-11-25T07:08:37+01:00",
+ "generatedAt": "2026-11-26T07:08:47+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "003fc93ff405",
+   "published": "2026-11-25",
+   "title": "Det Danske Filminstitut lanserar frågespel med historiska filmklipp",
+   "summary": "Det Danske Filminstitut har släppt GeoQuiz, ett gratis spel där deltagarna gissar plats och år för klipp från 1905 till 1995. Klippen hämtas från tjänsten Danmark på film med omkring 3 500 filmer och en halv miljon besökare om året.",
+   "url": "https://via.ritzau.dk/pressemeddelelse/15309028/quiz-hvor-godt-kender-du-danmarks-geografi-og-historie?publisherId=13560928&lang=da",
+   "source": "Det Danske Filminstitut",
+   "country": "DK",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
+  {
+   "id": "1db3fba3efeb",
+   "published": "2026-11-25",
+   "title": "Film Stockholm förlänger handläggningen av samproduktionsansökningar över jul",
+   "summary": "Film Stockholm handlägger inga ansökningar mellan 18 december och 10 januari. Normal handläggningstid på cirka sex veckor förlängs med två veckor när helgerna infaller under perioden.",
+   "url": "https://filmstockholm.se/?post_type=post&p=27809",
+   "source": "Film Stockholm",
+   "country": "SE",
+   "topics": [
+    "Finansiering"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
+  {
+   "id": "3ea96771b2d0",
+   "published": "2026-11-25",
+   "title": "Svenska Filminstitutet kräver stabil finansiering efter riksdagens filmbeslut",
+   "summary": "Svenska Filminstitutet välkomnar de tre nya filmpolitiska målen men varnar för kronisk underfinansiering. Institutet föreslår en kulturavgift för strömningstjänster och sänkt biomoms kopplad till en branschavgift för ny svensk film.",
+   "url": "https://pressroom.filminstitutet.se/pressreleases/riksdagens-beslut-om-filmpolitiska-maal-kraever-stabil-finansiering-3483859",
+   "source": "Svenska Filminstitutet",
+   "country": "SE",
+   "topics": [
+    "Politik & policy",
+    "Finansiering"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
+  {
+   "id": "7a7d7b0f9831",
+   "published": "2026-11-25",
+   "title": "Finska skräckfilmer lockar få biobesökare trots framgångar utomlands",
+   "summary": "Episodis chefredaktör Jussi Huhtala konstaterar att Yön lapsi öppnade med 1 324 besökare och Punaista lunta med 2 025, trots festivalpriser och försäljning av båda filmerna till Shudder.",
+   "url": "https://www.episodi.fi/uutiset/nakokulma-maailma-rakastaa-suomalaista-kauhua-miksi-me-emme/",
+   "source": "Episodi",
+   "country": "FI",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
+  {
+   "id": "8e871d7eac62",
+   "published": "2026-11-25",
+   "title": "Dokumentären Diivat om finska dragpionjärer får biopremiär i februari",
+   "summary": "Vesa Kuosmanens dokumentär Diivat, producerad av Sandra Enkvist, hade världspremiär i dokumentärtävlingen på Black Nights i Tallinn och går upp på finska biografer den 26 februari 2027.",
+   "url": "https://www.episodi.fi/uutiset/suomen-ensimmainen-drag-show-kerasi-miljoonayleison-television-aareen-ilo-paattyi-murhaan/",
+   "source": "Episodi",
+   "country": "FI",
+   "topics": [
+    "Distribution",
+    "Festivaler & priser"
+   ],
+   "format": "Dokumentär",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
+  {
+   "id": "d036c6c6a240",
+   "published": "2026-11-25",
+   "title": "Ny filmpolitik gäller från 1 januari efter bred majoritet i riksdagen",
+   "summary": "Riksdagen röstade igenom regeringens filmproposition och bara Miljöpartiet röstade emot. Publikens storlek väger tyngre vid stödbeslut, jämställdhet och mångfald stryks som mål, och varken sänkt biomoms eller strömningsavgift finns med.",
+   "url": "https://www.corren.se/kultur/film/artikel/riksdagen-klubbade-ny-svensk-filmpolitik/r35kd9ej",
+   "source": "Corren (TT)",
+   "country": "SE",
+   "topics": [
+    "Politik & policy",
+    "Finansiering"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
+  {
+   "id": "e76bf8c3f6cc",
+   "published": "2026-11-25",
+   "title": "Producenten Lena Rehnberg får Film i Västs pris Den Gyllene Räkan",
+   "summary": "Film i Väst gav Lena Rehnberg på StellaNova Film priset under sin produktionsbolagsdag den 25 november. Juryn lyfte filmer som Fröken Sverige och Hösten med Göran och hennes återkommande inspelningar i Västra Götaland.",
+   "url": "https://www.mynewsdesk.com/se/filmivast/pressreleases/lena-rehnberg-faar-film-i-vaests-pris-den-gyllene-raekan-3483990",
+   "source": "Film i Väst",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
   {
    "id": "8e536b496b82",
    "published": "2026-11-25",
@@ -15,6 +116,93 @@
    ],
    "format": "Bransch",
    "addedAt": "2026-11-25T07:00:00+01:00"
+  },
+  {
+   "id": "1acabe5a2242",
+   "published": "2026-11-24",
+   "title": "Festivalkontoret får tre miljoner kronor för nytt nationellt filmpris",
+   "summary": "Norsk filminstitutt ger Festivalkontoret 3 000 000 NOK till ett nationellt filmpris som ska ägas av Virke Produsentforening och Norske Filmdistributørers Forening. Förra årets stöd gick till Den norske filmfestivalen och Amandaprisen.",
+   "url": "https://www.nfi.no/nyheter/festivalkontoret-faar-tilskot-til-nasjonal-filmpris",
+   "source": "Norsk filminstitutt",
+   "country": "NO",
+   "topics": [
+    "Festivaler & priser",
+    "Finansiering"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
+  {
+   "id": "86f3d7def826",
+   "published": "2026-11-24",
+   "title": "Skånska kortfilmer prisas på Novemberfestivalen 2026",
+   "summary": "Ropa så jag hör dig fick pris för bästa foto av Greta Åkerberg. Mamma säger si, pappa säger så av LéaCati Vallier vann Light till Darks pris med visning och ackreditering i Örebro.",
+   "url": "https://filmiskane.se/sv/artiklar/skanska-talanger-tog-hem-priser-pa-novemberfestivalen-2026",
+   "source": "Film i Skåne",
+   "country": "SE",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
+  {
+   "id": "afbf57b59ad2",
+   "published": "2026-11-24",
+   "title": "Rasmus Christian Pedersen vinner musikpriset på Ekko Shortlist Awards igen",
+   "summary": "Kompositören Rasmus Christian Pedersen fick priset för bästa originalmusik vid Ekko Shortlist Awards för kortfilmen Rødder, hans andra seger i rad. Övriga nominerade var Kristina Lilleskov, Johan Carøe, Signe Sølvsten Sørensen och Hari Shankar Kishore.",
+   "url": "https://www.ekkofilm.dk/artikler/nar-musikken-bliver-en-del-af-filmens-dna/",
+   "source": "Ekko",
+   "country": "DK",
+   "topics": [
+    "Festivaler & priser"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
+  {
+   "id": "c30f668aac02",
+   "published": "2026-11-24",
+   "title": "Den Danske Filmskole avskedar anställd efter misstänkt missbruk av tankkort",
+   "summary": "Den Danske Filmskole har avskedat en anställd sedan reservkort för bränsle använts för upp till 61 023 DKK utan koppling till skolans bilar. Kulturminister Zenia Stampe kräver polisanmälan och har kallat rektor Kristoffer Hegnsvad och ordförande Louise Vesth till möte.",
+   "url": "https://www.ekkofilm.dk/artikler/filmskolen-fyrer-medarbejder-efter-svindelmistanke/",
+   "source": "Ekko",
+   "country": "DK",
+   "topics": [
+    "Politik & policy",
+    "Personal & tillsättningar"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
+  {
+   "id": "c82de805c9ca",
+   "published": "2026-11-24",
+   "title": "Iceguys The Movie har dragit in 66 miljoner isländska kronor",
+   "summary": "Den isländska filmen Iceguys The Movie låg trea på biotoppen i Island helgen 21 till 23 november. Intäkterna sedan premiären har nått 66 000 000 ISK.",
+   "url": "https://kvikmyndir.is/hungurleikarnir-vinsaelastir-um-helgina/",
+   "source": "Kvikmyndir.is",
+   "country": "IS",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-26T07:30:00+01:00"
+  },
+  {
+   "id": "f87feb167ed5",
+   "published": "2026-11-24",
+   "title": "Norsk filminstitutt firade 70 år med jubileum på Cinemateket i Oslo",
+   "summary": "Norsk filminstitutt markerade sitt 70-årsjubileum på Cinemateket i Oslo med Liv Ullmann bland gästerna. Statssekreterare Trude Storheim lovade mer pengar och en ny filmmelding, och direktör Kjersti Mo ledde firandet.",
+   "url": "https://www.nfi.no/nyheter/norsk-filminstitutt-markerte-70-aar-med-blikk-paa-fortid-og-framtid",
+   "source": "Norsk filminstitutt",
+   "country": "NO",
+   "topics": [
+    "Politik & policy",
+    "Finansiering"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-26T07:30:00+01:00"
   },
   {
    "id": "016bc925c4b0",
@@ -245,198 +433,6 @@
    ],
    "format": "Film",
    "addedAt": "2026-11-23T07:40:00+01:00"
-  },
-  {
-   "id": "fd9c6e859524",
-   "published": "2026-11-22",
-   "title": "Reisen til julestjernen fyller 50 år i nyrestaurerad version",
-   "summary": "Den norska julklassikern Reisen til julestjernen från 1976 har restaurerats inför 50-årsjubileet. Jubileumsvisning sker på Klingenberg kino i Oslo den 29 november, och NRK visar filmen från julafton till 7 februari.",
-   "url": "https://www.moviezine.no/nyheter/den-norske-juleklassikeren-fyller-50-ar-plutselig-er-folk-barn-igjen",
-   "source": "MovieZine Norge",
-   "country": "NO",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-24T07:30:00+01:00"
-  },
-  {
-   "id": "2e139f1bdfeb",
-   "published": "2026-11-22",
-   "title": "Isländskt och finländskt samproducerat projekt prisas på Industry@Tallinn",
-   "summary": "Isländsk-estniska At Your Service av Magnús Jónsson fick Pluto Consultancy Award på samproduktionsmarknaden, och tysk-estnisk-finska The Reef av Phillip Donnellon vann Just Film Best Project bland Works in Progress när Industry@Tallinn & Baltic Event delade ut 17 priser den 20 november.",
-   "url": "https://filmneweurope.com/festivals/item/128577-industry-tallinn-baltic-event-2026-revealed-its-winners",
-   "source": "FilmNewEurope",
-   "country": "NORDEN",
-   "topics": [
-    "Festivaler & priser",
-    "Samproduktion",
-    "Utveckling"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-23T07:40:00+01:00"
-  },
-  {
-   "id": "826f8be7a5ee",
-   "published": "2026-11-22",
-   "title": "Leksaksmannen spelas in utanför Trollhättan inför biopremiär hösten 2027",
-   "summary": "Jens Östberg regisserar thrillern Leksaksmannen efter manus av Per Gavatin, med Jakob Oftebro och Helena Bergström i huvudrollerna. Inspelningen pågår i höst utanför Trollhättan och biopremiären är planerad till hösten 2027.",
-   "url": "https://www.moviezine.se/nyheter/moviezine-besoker-inspelningen-av-leksaksmannen-en-svensk-thriller-gjord-for-bio",
-   "source": "MovieZine",
-   "country": "SE",
-   "topics": [
-    "Produktion"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-23T07:40:00+01:00"
-  },
-  {
-   "id": "d3096fa9a856",
-   "published": "2026-11-22",
-   "title": "TV4 Play+ visar tre nya filmer om Morden i Sandhamn i vinter",
-   "summary": "TV4 släpper tre nya Sandhamnsfilmer regisserade av Niklas Ohlson med Alexandra Rapaport och Nicolai Cleve Broch. Elodie har premiär 25 december, Luna 15 januari 2027 och Nora & Alexander 5 februari 2027 på TV4 Play+.",
-   "url": "https://www.moviezine.se/nyheter/morden-i-sandhamn-atervander-med-3-nya-filmer-i-vinter-brollop-och-mord-vantar",
-   "source": "MovieZine",
-   "country": "SE",
-   "topics": [
-    "Distribution",
-    "Produktion"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-23T07:40:00+01:00"
-  },
-  {
-   "id": "b211e9813722",
-   "published": "2026-11-22",
-   "title": "Animerade Reisen mot nord sänds i NRK till jul",
-   "summary": "Bente Lohnes animerade långfilm Reisen mot nord, som kostade 90 000 000 NOK, kommer till NRK i december. Filmen gick upp på bio före julen 2025.",
-   "url": "https://www.moviezine.no/nyheter/90-millioners-norsk-eventyrfilm-kommer-til-nrk",
-   "source": "MovieZine Norge",
-   "country": "NO",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-22T07:45:00+01:00"
-  },
-  {
-   "id": "4e12ed277af4",
-   "published": "2026-11-21",
-   "title": "Baldvin Z regisserar trålardramat Hafið er svart med Adam DiMarco",
-   "summary": "Glassriver och kanadensiska Terminal City Pictures producerar Hafið er svart med Adam DiMarco, Baltasar Kormákur och Ólafur Darri Ólafsson. Inspelningen börjar i mars 2027 på Island och i St. John's i Kanada, och Rocket Science säljer filmen internationellt.",
-   "url": "https://kvikmyndir.is/stjarna-ur-the-white-lotus-i-nyrri-islenskri-kvikmynd",
-   "source": "Kvikmyndir.is",
-   "country": "IS",
-   "topics": [
-    "Produktion",
-    "Samproduktion",
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-22T07:45:00+01:00"
-  },
-  {
-   "id": "74ad80a4eb9f",
-   "published": "2026-11-21",
-   "title": "Danska filmer tar tre priser vid Tallinn Black Nights",
-   "summary": "Nagieb Khaja fick regipriset i debutfilmstävlingen för Lionheart och Kaspar Astrup Schröders The War We Carry vann den internationella dokumentärtävlingen i Tallinn. Father's House av Adam Nielsen, Andreas Koefoed och Eva Mulvad fick ett specialpris.",
-   "url": "https://www.eyeforfilm.co.uk/news/2026-11-21-on-top-of-the-cliff-takes-top-honours-in-tallinn-news-story-by-amber-wilkinson",
-   "source": "Eye For Film",
-   "country": "DK",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-22T07:45:00+01:00"
-  },
-  {
-   "id": "fe0004a82bcf",
-   "published": "2026-11-21",
-   "title": "Arild Frölichs Munchthriller Vampyr får biopremiär i februari",
-   "summary": "Maipo Film färdigställer Vampyr, där Pål Sverre Hagen spelar Edvard Munch med Ane Dahl Torp, Kristoffer Joner och Kristine Kujath Thorp. Filmen bygger på Steffen Kvernelands bok från 2016 och får norsk biopremiär 26 februari 2027.",
-   "url": "https://www.moviezine.no/nyheter/pal-sverre-hagen-leder-an-stjernespekket-edvard-munch-thriller",
-   "source": "MovieZine Norge",
-   "country": "NO",
-   "topics": [
-    "Produktion",
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-22T07:45:00+01:00"
-  },
-  {
-   "id": "569838e299cc",
-   "published": "2026-11-20",
-   "title": "NRK:s julkalender Skimmer har premiär 1 december",
-   "summary": "Arnstein Dybvik regisserar och Trine Haavet Grande producerar NRK:s julkalender Skimmer med Elise Gyth Palmeira och Håkon Lie Seip. Serien har 21 avsnitt på cirka 21 minuter och sänds dagligen från 1 december.",
-   "url": "https://www.moviezine.no/nyheter/skimmer-fra-pianokrakk-til-akebrett-ny-julekalender-pa-nrk",
-   "source": "MovieZine Norge",
-   "country": "NO",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Serie",
-   "addedAt": "2026-11-22T07:45:00+01:00"
-  },
-  {
-   "id": "7fcf311133af",
-   "published": "2026-11-20",
-   "title": "Motlys samproduktion No Good Men har biopremiär i Norge",
-   "summary": "Shahrbanoo Sadats No Good Men, samproducerad av norska Motlys, fick norsk biopremiär 20 november 2026. Filmen öppnade Berlinale tidigare i år.",
-   "url": "https://www.moviezine.no/nyheter/premiere-denne-helgen-et-historisk-filmkyss-inntar-norske-kinoer",
-   "source": "MovieZine Norge",
-   "country": "NO",
-   "topics": [
-    "Distribution",
-    "Samproduktion"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-22T07:45:00+01:00"
-  },
-  {
-   "id": "824b0b60f4dd",
-   "published": "2026-11-20",
-   "title": "Frederik Lauesen leder TV 2:s innehåll tillfälligt efter chefsbytet",
-   "summary": "TV 2:s vd Anne Engdal Stig Christensen ersätter Ulla Pors och Dorthe Thirstrup med Frederik Lauesen som tillförordnad innehållsdirektör. Rekryteringen av en ny ledning börjar när granskningen av Alle elsker Rasmus är klar.",
-   "url": "https://via.ritzau.dk/pressemeddelelse/15301771/indholdsdirektor-og-programdirektor-stopper-pa-tv-2?publisherId=2298764&lang=da",
-   "source": "TV 2 Danmark, pressrum hos Via Ritzau",
-   "country": "DK",
-   "topics": [
-    "Personal & tillsättningar"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-22T07:45:00+01:00"
-  },
-  {
-   "id": "bd4c2a3686ea",
-   "published": "2026-11-20",
-   "title": "Norsk filminstitutt presenterar ansökningsfristerna för första halvåret 2027",
-   "summary": "Norsk filminstitutt har satt nio frister för våren 2027, bland annat 2 februari för marknadsbedömt spelfilmsstöd, 11 februari för minoritetssamproduktion och 9 mars för Sørfond. De konstnärligt bedömda stöden öppnar igen 2 mars 2027.",
-   "url": "https://www.nfi.no/nyheter/soeknadsfrister-foerste-halvaar-2027",
-   "source": "Norsk filminstitutt",
-   "country": "NO",
-   "topics": [
-    "Finansiering",
-    "Politik & policy"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-22T07:45:00+01:00"
-  },
-  {
-   "id": "ddd8cee98a87",
-   "published": "2026-11-20",
-   "title": "Malin Barr vinner 1 KM FILM med kortfilmsprojektet Emergency Contact",
-   "summary": "Malin Barr får stöd värt 450 000 SEK för att göra kortfilmen Emergency Contact, bland annat från Svenska Filminstitutet och Film Stockholm. Klara Thafvelin får Torino Script Award för Taperworms och Amalie Maria Nielsen vinner Stockholm Nordic Shorts med Korpus.",
-   "url": "https://www.mynewsdesk.com/se/stockholms_filmfestival/pressreleases/aarets-stockholm-industry-days-vinnare-1-km-film-2026-nordic-wave-och-nordic-shorts-3479396",
-   "source": "Stockholms filmfestival",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser",
-    "Finansiering",
-    "Utveckling"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-22T07:45:00+01:00"
   }
  ]
 }
