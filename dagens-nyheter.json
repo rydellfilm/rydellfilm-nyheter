@@ -1,7 +1,156 @@
 {
- "generatedAt": "2026-11-27T07:08:46+01:00",
+ "generatedAt": "2026-11-28T07:08:14+01:00",
  "source": "Nordisk filmbevakning",
  "items": [
+  {
+   "id": "008300606659",
+   "published": "2026-11-27",
+   "title": "Strömningstjänster måste investera i norskt innehåll från årsskiftet",
+   "summary": "Från 1 januari 2027 måste norska och internationella strömningstjänster investera 4 procent av sin årliga omsättning i Norge i norska film- och serieproduktioner. Norsk filminstitutt vill pröva en avgift till filmfonden om investeringarna blir för små.",
+   "url": "https://www.nfi.no/nyheter/investeringsplikten-for-stroemmetjenester-trer-i-kraft-fra-nyttaar",
+   "source": "Norsk filminstitutt",
+   "country": "NO",
+   "topics": [
+    "Politik & policy",
+    "Finansiering"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-28T07:45:00+01:00"
+  },
+  {
+   "id": "0d75cc1b8cf1",
+   "published": "2026-11-27",
+   "title": "Tre nya Beckfilmer väntar efter premiären av Syndens lön",
+   "summary": "Beck – Syndens lön, den 55:e filmen i serien, har premiär på TV4 Play Plus den 27 november. Beck 56 spelades in under våren 2026 och kommer tidigt 2027, och två filmer till spelas in våren 2027 enligt Peter Haber.",
+   "url": "https://www.moviezine.se/nyheter/ny-beck-film-slapps-idag-och-minst-3-till-ar-pa-gang",
+   "source": "MovieZine",
+   "country": "SE",
+   "topics": [
+    "Produktion",
+    "Distribution"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-28T07:45:00+01:00"
+  },
+  {
+   "id": "2a8de904419d",
+   "published": "2026-11-27",
+   "title": "Eurimages stöttar Lone Scherfigs Honeytrap och svensk dokumentär om Stephen King",
+   "summary": "Eurimages ger 500 000 euro till Lone Scherfigs svensk-dansk-tyska Honeytrap och 150 000 euro till Max Erikssons dokumentär Bachman, en samproduktion mellan Sverige, Kanada och Norge. Totalt får 28 samproduktioner stöd i årets tredje omgång.",
+   "url": "https://www.filmbunch.com/2026/11/eurimages-november-2026-co-production-support-28-films-full-list/",
+   "source": "Filmbunch",
+   "country": "SE",
+   "topics": [
+    "Finansiering",
+    "Samproduktion"
+   ],
+   "format": "Film",
+   "addedAt": "2026-11-28T07:45:00+01:00"
+  },
+  {
+   "id": "414963dae711",
+   "published": "2026-11-27",
+   "title": "Tunna blå linjen får fyra julavsnitt på SVT Play",
+   "summary": "SVT släpper säsong fyra av Tunna blå linjen med fyra julavsnitt på SVT Play den 24 december klockan 21. Säsongen kan bli seriens sista.",
+   "url": "https://www.moviezine.se/nyheter/tunna-bla-linjen-slapper-4-nya-avsnitt-i-jul-har-ar-trailern",
+   "source": "MovieZine",
+   "country": "SE",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-28T07:45:00+01:00"
+  },
+  {
+   "id": "608a48ca2902",
+   "published": "2026-11-27",
+   "title": "Vestnorsk filmsenter delar ut 3,29 miljoner NOK i årets sista runda",
+   "summary": "Vestnorsk filmsenter stöder 13 film- och spelprojekt med sammanlagt 3,29 miljoner NOK. Största beloppet, 600 000 NOK i produktionsstöd, går till dokumentären Floker från Screen Story Film og TV.",
+   "url": "https://vestnorskfilm.no/nyheter/nye-produksjoner-og-internasjonale-samarbeid",
+   "source": "Vestnorsk filmsenter",
+   "country": "NO",
+   "topics": [
+    "Finansiering",
+    "Utveckling",
+    "Samproduktion"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-28T07:45:00+01:00"
+  },
+  {
+   "id": "912767cb6e47",
+   "published": "2026-11-27",
+   "title": "Rushprints redaktör vill att politikerna avgör stöd till AI-film",
+   "summary": "Kjetil Lismoen skriver i Rushprint att Norsk filminstitutt saknar mandat att ensam bestämma om AI-genererade produktioner ska nekas stöd. Han kräver politiska regler och märkning, och nämner Rubicons planer på AI i Isfolket.",
+   "url": "https://rushprint.no/2026/11/bor-offentlige-tilskudd-til-ki-genererte-filmer-forbys/",
+   "source": "Rushprint",
+   "country": "NO",
+   "topics": [
+    "Politik & policy",
+    "Finansiering"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-28T07:45:00+01:00"
+  },
+  {
+   "id": "b2fb4dd0ec49",
+   "published": "2026-11-27",
+   "title": "Tolv produktioner söker norska incitamentet för 2027",
+   "summary": "Fem långfilmer och sju dramaserier söker sammanlagt 233,6 miljoner NOK ur Norsk filminstitutts incitamentsordning och planerar att spendera 934,6 miljoner NOK i Norge. Besked väntas vid månadsskiftet januari till februari.",
+   "url": "https://www.nfi.no/nyheter/insentiv-tolv-film-og-dramaserieproduksjoner-vil-til-norge",
+   "source": "Norsk filminstitutt",
+   "country": "NO",
+   "topics": [
+    "Produktionsincitament",
+    "Produktion",
+    "Samproduktion"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-28T07:45:00+01:00"
+  },
+  {
+   "id": "2bd5fdecded7",
+   "published": "2026-11-26",
+   "title": "Sjukhusserien Legevakta har premiär på Netflix",
+   "summary": "Netflix släppte den norska sjukhusserien Legevakta den 26 november med sju avsnitt. Sara Khorami spelar kirurgen Sofia, med bland andra Thorbjørn Harr och Jan Gunnar Røise i rollerna.",
+   "url": "https://www.moviezine.no/nyheter/premiere-pa-legevakta-netflix-tar-opp-kampen-mot-suksessen-lis",
+   "source": "MovieZine Norge",
+   "country": "NO",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-28T07:45:00+01:00"
+  },
+  {
+   "id": "8129679be1a0",
+   "published": "2026-11-26",
+   "title": "Every Frame a Painting-duon talar på norsk fagdag i Oslo",
+   "summary": "Norsk filminstitutt håller en fagdag om internationell positionering för film, tv och spel på Cinemateket i Oslo den 10 december. Talare är bland andra Taylor Ramos, Tony Zhou och filmanalytikern Stephen Follows.",
+   "url": "https://www.nfi.no/nyheter/duoen-bak-every-frame-a-painting-og-skaperen-av-skald-kommer-til-fagdagen-om-internasjonal-posisjonering",
+   "source": "Norsk filminstitutt",
+   "country": "NO",
+   "topics": [
+    "Distribution"
+   ],
+   "format": "Bransch",
+   "addedAt": "2026-11-28T07:45:00+01:00"
+  },
+  {
+   "id": "d3443490d02a",
+   "published": "2026-11-26",
+   "title": "Sex norska dramaserier visas för köpare på C21 i London",
+   "summary": "Norsk filminstitutt presenterar bland annat Henki, Sagaen om Isfolket, Kandidatene och Fantasy Resort på C21 i London den 1 december. Misofilms Ibsen Summer deltar i C21 Drama Series Pitch.",
+   "url": "https://www.nfi.no/nyheter/norske-dramaserier-presenteres-paa-c21-i-london",
+   "source": "Norsk filminstitutt",
+   "country": "NO",
+   "topics": [
+    "Distribution",
+    "Festivaler & priser"
+   ],
+   "format": "Serie",
+   "addedAt": "2026-11-28T07:45:00+01:00"
+  },
   {
    "id": "0e6a17c257bb",
    "published": "2026-11-26",
@@ -298,151 +447,6 @@
    ],
    "format": "Bransch",
    "addedAt": "2026-11-27T07:05:00+01:00"
-  },
-  {
-   "id": "57c22aef65b5",
-   "published": "2026-11-25",
-   "title": "Göteborg Film Festival startar poddserie om kulturvärde i tv-drama",
-   "summary": "Göteborg Film Festival lanserar Nostradamus Talks, tre poddavsnitt med EFM Industry Insights och stöd från Eurimages. Första avsnittet gästas av Marianne Furevold-Boland från NRK, andra avsnittet kommer 3 december och det sista 10 december.",
-   "url": "https://goteborgfilmfestival.se/en/news/introducing-nostradamus-talks",
-   "source": "Göteborg Film Festival",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser",
-    "Utveckling"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-26T14:50:00+01:00"
-  },
-  {
-   "id": "003fc93ff405",
-   "published": "2026-11-25",
-   "title": "Det Danske Filminstitut lanserar frågespel med historiska filmklipp",
-   "summary": "Det Danske Filminstitut har släppt GeoQuiz, ett gratis spel där deltagarna gissar plats och år för klipp från 1905 till 1995. Klippen hämtas från tjänsten Danmark på film med omkring 3 500 filmer och en halv miljon besökare om året.",
-   "url": "https://via.ritzau.dk/pressemeddelelse/15309028/quiz-hvor-godt-kender-du-danmarks-geografi-og-historie?publisherId=13560928&lang=da",
-   "source": "Det Danske Filminstitut",
-   "country": "DK",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-26T07:30:00+01:00"
-  },
-  {
-   "id": "1db3fba3efeb",
-   "published": "2026-11-25",
-   "title": "Film Stockholm förlänger handläggningen av samproduktionsansökningar över jul",
-   "summary": "Film Stockholm handlägger inga ansökningar mellan 18 december och 10 januari. Normal handläggningstid på cirka sex veckor förlängs med två veckor när helgerna infaller under perioden.",
-   "url": "https://filmstockholm.se/?post_type=post&p=27809",
-   "source": "Film Stockholm",
-   "country": "SE",
-   "topics": [
-    "Finansiering"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-26T07:30:00+01:00"
-  },
-  {
-   "id": "3ea96771b2d0",
-   "published": "2026-11-25",
-   "title": "Svenska Filminstitutet kräver stabil finansiering efter riksdagens filmbeslut",
-   "summary": "Svenska Filminstitutet välkomnar de tre nya filmpolitiska målen men varnar för kronisk underfinansiering. Institutet föreslår en kulturavgift för strömningstjänster och sänkt biomoms kopplad till en branschavgift för ny svensk film.",
-   "url": "https://pressroom.filminstitutet.se/pressreleases/riksdagens-beslut-om-filmpolitiska-maal-kraever-stabil-finansiering-3483859",
-   "source": "Svenska Filminstitutet",
-   "country": "SE",
-   "topics": [
-    "Politik & policy",
-    "Finansiering"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-26T07:30:00+01:00"
-  },
-  {
-   "id": "7a7d7b0f9831",
-   "published": "2026-11-25",
-   "title": "Finska skräckfilmer lockar få biobesökare trots framgångar utomlands",
-   "summary": "Episodis chefredaktör Jussi Huhtala konstaterar att Yön lapsi öppnade med 1 324 besökare och Punaista lunta med 2 025, trots festivalpriser och försäljning av båda filmerna till Shudder.",
-   "url": "https://www.episodi.fi/uutiset/nakokulma-maailma-rakastaa-suomalaista-kauhua-miksi-me-emme/",
-   "source": "Episodi",
-   "country": "FI",
-   "topics": [
-    "Distribution"
-   ],
-   "format": "Film",
-   "addedAt": "2026-11-26T07:30:00+01:00"
-  },
-  {
-   "id": "8e871d7eac62",
-   "published": "2026-11-25",
-   "title": "Dokumentären Diivat om finska dragpionjärer får biopremiär i februari",
-   "summary": "Vesa Kuosmanens dokumentär Diivat, producerad av Sandra Enkvist, hade världspremiär i dokumentärtävlingen på Black Nights i Tallinn och går upp på finska biografer den 26 februari 2027.",
-   "url": "https://www.episodi.fi/uutiset/suomen-ensimmainen-drag-show-kerasi-miljoonayleison-television-aareen-ilo-paattyi-murhaan/",
-   "source": "Episodi",
-   "country": "FI",
-   "topics": [
-    "Distribution",
-    "Festivaler & priser"
-   ],
-   "format": "Dokumentär",
-   "addedAt": "2026-11-26T07:30:00+01:00"
-  },
-  {
-   "id": "d036c6c6a240",
-   "published": "2026-11-25",
-   "title": "Ny filmpolitik gäller från 1 januari efter bred majoritet i riksdagen",
-   "summary": "Riksdagen röstade igenom regeringens filmproposition och bara Miljöpartiet röstade emot. Publikens storlek väger tyngre vid stödbeslut, jämställdhet och mångfald stryks som mål, och varken sänkt biomoms eller strömningsavgift finns med.",
-   "url": "https://www.corren.se/kultur/film/artikel/riksdagen-klubbade-ny-svensk-filmpolitik/r35kd9ej",
-   "source": "Corren (TT)",
-   "country": "SE",
-   "topics": [
-    "Politik & policy",
-    "Finansiering"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-26T07:30:00+01:00"
-  },
-  {
-   "id": "e76bf8c3f6cc",
-   "published": "2026-11-25",
-   "title": "Producenten Lena Rehnberg får Film i Västs pris Den Gyllene Räkan",
-   "summary": "Film i Väst gav Lena Rehnberg på StellaNova Film priset under sin produktionsbolagsdag den 25 november. Juryn lyfte filmer som Fröken Sverige och Hösten med Göran och hennes återkommande inspelningar i Västra Götaland.",
-   "url": "https://www.mynewsdesk.com/se/filmivast/pressreleases/lena-rehnberg-faar-film-i-vaests-pris-den-gyllene-raekan-3483990",
-   "source": "Film i Väst",
-   "country": "SE",
-   "topics": [
-    "Festivaler & priser"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-26T07:30:00+01:00"
-  },
-  {
-   "id": "8e536b496b82",
-   "published": "2026-11-25",
-   "title": "Riksdagen fattar beslut om regeringens nya filmpolitik",
-   "summary": "Kulturutskottets betänkande 2026/27:KrU3 om nya mål för filmpolitiken står på riksdagens beslutslista 25 november klockan 16. Utskottet föreslår bifall till propositionen, medan Vänsterpartiet och Miljöpartiet har fyra reservationer.",
-   "url": "https://www.riksdagen.se/sv/aktuellt/kalendersida/kalenderhandelse/beslut/2026/nov/25/beslut_rdhec120261125vo/",
-   "source": "Sveriges riksdag",
-   "country": "SE",
-   "topics": [
-    "Politik & policy"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-25T07:00:00+01:00"
-  },
-  {
-   "id": "1acabe5a2242",
-   "published": "2026-11-24",
-   "title": "Festivalkontoret får tre miljoner kronor för nytt nationellt filmpris",
-   "summary": "Norsk filminstitutt ger Festivalkontoret 3 000 000 NOK till ett nationellt filmpris som ska ägas av Virke Produsentforening och Norske Filmdistributørers Forening. Förra årets stöd gick till Den norske filmfestivalen och Amandaprisen.",
-   "url": "https://www.nfi.no/nyheter/festivalkontoret-faar-tilskot-til-nasjonal-filmpris",
-   "source": "Norsk filminstitutt",
-   "country": "NO",
-   "topics": [
-    "Festivaler & priser",
-    "Finansiering"
-   ],
-   "format": "Bransch",
-   "addedAt": "2026-11-26T07:30:00+01:00"
   }
  ]
 }
